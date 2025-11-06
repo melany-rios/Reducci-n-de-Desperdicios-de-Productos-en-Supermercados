@@ -39,11 +39,11 @@ Este dashboard permite analizar **ventas, inventario, desperdicio y donaciones**
 @st.cache_data
 def load_data():
     try:
-        ventas = pd.read_csv("ventas.csv", parse_dates=["fecha"])
-        inventario = pd.read_csv("inventario.csv", parse_dates=["fecha_vencimiento"])
-        descarte = pd.read_csv("descarte.csv", parse_dates=["fecha"])
-        proveedores = pd.read_csv("proveedores.csv")
-        comedores = pd.read_csv("comedores.csv", parse_dates=["ultimo_envio"])
+        ventas = pd.read_csv("data/ventas.csv", parse_dates=["fecha"])
+        inventario = pd.read_csv("data/inventario.csv", parse_dates=["fecha_vencimiento"])
+        descarte = pd.read_csv("data/descarte.csv", parse_dates=["fecha"])
+        proveedores = pd.read_csv("data/proveedores.csv")
+        comedores = pd.read_csv("data/comedores.csv", parse_dates=["ultimo_envio"])
         return ventas, inventario, descarte, proveedores, comedores
     except Exception as e:
         st.error(f"⚠️ Error al cargar los archivos CSV: {e}")

@@ -1,0 +1,1001 @@
+id_venta,fecha,producto,categoria,sucursal,cantidad,precio_unitario
+1,2025-10-09,Leche Entera 1L,Lácteos,Norte,40,450
+2,2025-09-17,Atún en lata,Enlatados,Este,15,400
+3,2025-09-02,Arroz 1kg,Secos,Oeste,7,400
+4,2025-09-01,Agua Mineral 2L,Bebidas,Norte,26,250
+5,2025-10-28,Gaseosa Cola,Bebidas,Este,20,450
+6,2025-10-22,Embutidos,Carnes,Este,47,450
+7,2025-09-24,Gaseosa Cola,Bebidas,Sur,15,350
+8,2025-10-27,Atún en lata,Enlatados,Sur,16,350
+9,2025-09-19,Fideos Spaghetti,Secos,Sur,27,250
+10,2025-09-23,Agua Mineral 2L,Bebidas,Norte,44,450
+11,2025-10-31,Gaseosa Cola,Bebidas,Oeste,5,300
+12,2025-09-20,Harina 000,Secos,Este,32,350
+13,2025-10-28,Galletas dulces,Panificados,Este,25,250
+14,2025-10-20,Queso Cremoso,Lácteos,Oeste,28,450
+15,2025-10-18,Lechuga,Frutas y Verduras,Oeste,49,350
+16,2025-09-14,Carne Vacuna,Carnes,Sur,23,250
+17,2025-10-07,Queso Cremoso,Lácteos,Oeste,32,400
+18,2025-09-27,Harina 000,Secos,Este,6,450
+19,2025-09-20,Arroz 1kg,Secos,Norte,34,400
+20,2025-09-06,Leche Entera 1L,Lácteos,Este,49,250
+21,2025-09-29,Harina 000,Secos,Oeste,38,250
+22,2025-09-21,Maíz dulce,Enlatados,Este,10,400
+23,2025-09-12,Maíz dulce,Enlatados,Este,39,450
+24,2025-10-20,Jugo Naranja,Bebidas,Este,30,400
+25,2025-10-14,Queso Cremoso,Lácteos,Sur,26,350
+26,2025-09-20,Queso Cremoso,Lácteos,Norte,21,250
+27,2025-09-23,Jugo Naranja,Bebidas,Norte,15,350
+28,2025-09-10,Banana,Frutas y Verduras,Oeste,40,300
+29,2025-09-12,Agua Mineral 2L,Bebidas,Sur,17,250
+30,2025-10-12,Pollo Entero,Carnes,Este,13,450
+31,2025-10-11,Atún en lata,Enlatados,Oeste,20,350
+32,2025-09-11,Jugo Naranja,Bebidas,Norte,36,250
+33,2025-09-28,Arroz 1kg,Secos,Este,43,350
+34,2025-09-27,Arvejas en lata,Enlatados,Sur,44,400
+35,2025-10-01,Galletas dulces,Panificados,Oeste,49,350
+36,2025-09-12,Leche Entera 1L,Lácteos,Norte,26,400
+37,2025-09-03,Facturas,Panificados,Este,41,300
+38,2025-10-05,Atún en lata,Enlatados,Este,15,400
+39,2025-09-19,Lechuga,Frutas y Verduras,Norte,8,300
+40,2025-09-07,Leche Entera 1L,Lácteos,Norte,38,400
+41,2025-10-29,Arvejas en lata,Enlatados,Sur,33,300
+42,2025-10-09,Arvejas en lata,Enlatados,Oeste,6,450
+43,2025-09-12,Agua Mineral 2L,Bebidas,Norte,25,400
+44,2025-10-17,Manzana,Frutas y Verduras,Oeste,24,250
+45,2025-10-23,Banana,Frutas y Verduras,Este,40,450
+46,2025-10-22,Leche Entera 1L,Lácteos,Norte,47,400
+47,2025-09-02,Banana,Frutas y Verduras,Oeste,40,250
+48,2025-10-23,Queso Cremoso,Lácteos,Este,38,250
+49,2025-09-02,Queso Cremoso,Lácteos,Oeste,6,350
+50,2025-10-19,Fideos Spaghetti,Secos,Oeste,48,250
+51,2025-10-11,Queso Cremoso,Lácteos,Sur,33,450
+52,2025-10-04,Harina 000,Secos,Sur,19,400
+53,2025-10-23,Banana,Frutas y Verduras,Este,29,250
+54,2025-09-06,Facturas,Panificados,Norte,35,450
+55,2025-10-12,Embutidos,Carnes,Este,9,300
+56,2025-10-01,Pan Blanco,Panificados,Oeste,7,450
+57,2025-10-27,Manzana,Frutas y Verduras,Oeste,6,350
+58,2025-09-01,Pan Blanco,Panificados,Este,8,400
+59,2025-10-15,Harina 000,Secos,Oeste,11,350
+60,2025-10-05,Jugo Naranja,Bebidas,Sur,39,350
+61,2025-09-15,Harina 000,Secos,Este,16,300
+62,2025-09-17,Lechuga,Frutas y Verduras,Norte,33,400
+63,2025-10-18,Fideos Spaghetti,Secos,Oeste,42,350
+64,2025-09-07,Maíz dulce,Enlatados,Este,36,400
+65,2025-10-19,Jugo Naranja,Bebidas,Sur,50,300
+66,2025-09-05,Agua Mineral 2L,Bebidas,Sur,44,250
+67,2025-09-05,Maíz dulce,Enlatados,Sur,35,250
+68,2025-10-14,Carne Vacuna,Carnes,Oeste,48,350
+69,2025-09-09,Queso Cremoso,Lácteos,Sur,5,450
+70,2025-09-25,Facturas,Panificados,Sur,14,400
+71,2025-10-20,Galletas dulces,Panificados,Oeste,31,450
+72,2025-09-27,Queso Cremoso,Lácteos,Norte,7,450
+73,2025-09-14,Banana,Frutas y Verduras,Este,7,400
+74,2025-10-25,Galletas dulces,Panificados,Oeste,31,300
+75,2025-09-09,Yogur Natural,Lácteos,Este,48,250
+76,2025-09-03,Maíz dulce,Enlatados,Norte,50,350
+77,2025-10-12,Galletas dulces,Panificados,Sur,8,300
+78,2025-10-04,Embutidos,Carnes,Norte,24,250
+79,2025-09-27,Facturas,Panificados,Sur,50,400
+80,2025-10-01,Harina 000,Secos,Norte,9,250
+81,2025-09-27,Atún en lata,Enlatados,Oeste,47,450
+82,2025-09-14,Arvejas en lata,Enlatados,Oeste,50,250
+83,2025-10-09,Carne Vacuna,Carnes,Este,13,300
+84,2025-09-04,Pan Blanco,Panificados,Norte,13,300
+85,2025-10-29,Jugo Naranja,Bebidas,Sur,28,300
+86,2025-10-13,Atún en lata,Enlatados,Oeste,36,250
+87,2025-09-28,Atún en lata,Enlatados,Este,7,450
+88,2025-09-11,Maíz dulce,Enlatados,Oeste,47,250
+89,2025-09-22,Galletas dulces,Panificados,Oeste,19,300
+90,2025-09-24,Manzana,Frutas y Verduras,Sur,32,400
+91,2025-10-01,Arroz 1kg,Secos,Este,47,350
+92,2025-10-31,Maíz dulce,Enlatados,Oeste,17,350
+93,2025-10-16,Gaseosa Cola,Bebidas,Norte,19,250
+94,2025-09-03,Jugo Naranja,Bebidas,Este,31,300
+95,2025-10-24,Embutidos,Carnes,Norte,9,400
+96,2025-09-18,Jugo Naranja,Bebidas,Oeste,31,450
+97,2025-10-12,Arroz 1kg,Secos,Norte,22,450
+98,2025-09-02,Maíz dulce,Enlatados,Norte,40,300
+99,2025-09-22,Arvejas en lata,Enlatados,Norte,45,400
+100,2025-10-11,Fideos Spaghetti,Secos,Norte,9,450
+101,2025-09-30,Arvejas en lata,Enlatados,Oeste,43,250
+102,2025-10-11,Pan Blanco,Panificados,Sur,17,350
+103,2025-09-18,Maíz dulce,Enlatados,Norte,12,350
+104,2025-10-21,Manzana,Frutas y Verduras,Oeste,9,300
+105,2025-09-24,Gaseosa Cola,Bebidas,Oeste,26,250
+106,2025-10-13,Harina 000,Secos,Norte,21,450
+107,2025-09-22,Galletas dulces,Panificados,Sur,20,400
+108,2025-09-06,Gaseosa Cola,Bebidas,Este,33,450
+109,2025-09-08,Harina 000,Secos,Oeste,23,450
+110,2025-09-10,Leche Entera 1L,Lácteos,Este,17,250
+111,2025-10-25,Yogur Natural,Lácteos,Este,43,250
+112,2025-09-22,Embutidos,Carnes,Este,43,250
+113,2025-09-17,Jugo Naranja,Bebidas,Oeste,33,400
+114,2025-09-27,Lechuga,Frutas y Verduras,Sur,33,450
+115,2025-09-18,Leche Entera 1L,Lácteos,Este,30,250
+116,2025-10-10,Harina 000,Secos,Oeste,47,300
+117,2025-10-03,Agua Mineral 2L,Bebidas,Norte,24,350
+118,2025-10-18,Lechuga,Frutas y Verduras,Oeste,33,300
+119,2025-10-29,Carne Vacuna,Carnes,Norte,42,300
+120,2025-09-16,Carne Vacuna,Carnes,Este,32,450
+121,2025-10-20,Harina 000,Secos,Este,36,450
+122,2025-10-28,Harina 000,Secos,Norte,12,250
+123,2025-09-17,Gaseosa Cola,Bebidas,Este,46,300
+124,2025-10-14,Lechuga,Frutas y Verduras,Oeste,14,300
+125,2025-09-21,Arvejas en lata,Enlatados,Norte,25,350
+126,2025-09-16,Embutidos,Carnes,Sur,16,250
+127,2025-10-13,Carne Vacuna,Carnes,Este,23,400
+128,2025-09-01,Gaseosa Cola,Bebidas,Sur,39,350
+129,2025-10-07,Atún en lata,Enlatados,Oeste,33,400
+130,2025-09-07,Harina 000,Secos,Oeste,16,300
+131,2025-10-01,Leche Entera 1L,Lácteos,Sur,29,350
+132,2025-09-12,Pollo Entero,Carnes,Norte,34,300
+133,2025-09-05,Carne Vacuna,Carnes,Este,20,250
+134,2025-09-28,Manzana,Frutas y Verduras,Sur,9,450
+135,2025-10-06,Galletas dulces,Panificados,Este,42,300
+136,2025-10-31,Banana,Frutas y Verduras,Sur,30,300
+137,2025-10-11,Pollo Entero,Carnes,Sur,40,450
+138,2025-10-22,Fideos Spaghetti,Secos,Norte,50,450
+139,2025-09-20,Carne Vacuna,Carnes,Sur,45,350
+140,2025-09-29,Arvejas en lata,Enlatados,Oeste,25,300
+141,2025-09-27,Fideos Spaghetti,Secos,Este,14,300
+142,2025-10-22,Gaseosa Cola,Bebidas,Sur,43,400
+143,2025-10-28,Maíz dulce,Enlatados,Oeste,25,450
+144,2025-09-01,Pollo Entero,Carnes,Oeste,37,350
+145,2025-10-04,Jugo Naranja,Bebidas,Norte,50,450
+146,2025-10-08,Gaseosa Cola,Bebidas,Este,7,350
+147,2025-09-16,Leche Entera 1L,Lácteos,Norte,5,400
+148,2025-10-07,Pollo Entero,Carnes,Este,35,400
+149,2025-09-14,Jugo Naranja,Bebidas,Norte,10,400
+150,2025-10-06,Arvejas en lata,Enlatados,Este,12,300
+151,2025-09-27,Galletas dulces,Panificados,Norte,29,250
+152,2025-10-22,Banana,Frutas y Verduras,Sur,13,350
+153,2025-09-04,Banana,Frutas y Verduras,Oeste,20,350
+154,2025-09-12,Agua Mineral 2L,Bebidas,Este,14,450
+155,2025-10-11,Yogur Natural,Lácteos,Oeste,22,300
+156,2025-10-16,Pollo Entero,Carnes,Este,14,300
+157,2025-09-12,Leche Entera 1L,Lácteos,Este,41,450
+158,2025-10-21,Carne Vacuna,Carnes,Sur,47,300
+159,2025-09-29,Fideos Spaghetti,Secos,Norte,29,300
+160,2025-10-09,Harina 000,Secos,Este,38,250
+161,2025-10-03,Facturas,Panificados,Sur,9,250
+162,2025-09-11,Manzana,Frutas y Verduras,Sur,18,300
+163,2025-09-07,Gaseosa Cola,Bebidas,Sur,32,250
+164,2025-09-05,Manzana,Frutas y Verduras,Norte,16,400
+165,2025-10-20,Harina 000,Secos,Este,42,350
+166,2025-10-30,Harina 000,Secos,Oeste,15,250
+167,2025-09-17,Gaseosa Cola,Bebidas,Norte,30,300
+168,2025-10-13,Pan Blanco,Panificados,Este,46,400
+169,2025-09-01,Embutidos,Carnes,Este,33,450
+170,2025-10-17,Arroz 1kg,Secos,Oeste,5,350
+171,2025-10-10,Banana,Frutas y Verduras,Sur,16,300
+172,2025-09-07,Pollo Entero,Carnes,Norte,36,350
+173,2025-09-10,Banana,Frutas y Verduras,Oeste,49,450
+174,2025-09-19,Pan Blanco,Panificados,Oeste,38,400
+175,2025-09-13,Gaseosa Cola,Bebidas,Sur,20,350
+176,2025-10-11,Gaseosa Cola,Bebidas,Oeste,20,250
+177,2025-09-11,Maíz dulce,Enlatados,Oeste,45,350
+178,2025-09-30,Manzana,Frutas y Verduras,Oeste,22,450
+179,2025-10-19,Carne Vacuna,Carnes,Norte,8,350
+180,2025-10-10,Yogur Natural,Lácteos,Norte,33,300
+181,2025-09-22,Embutidos,Carnes,Norte,33,250
+182,2025-09-16,Queso Cremoso,Lácteos,Oeste,45,350
+183,2025-10-23,Harina 000,Secos,Este,22,350
+184,2025-10-21,Fideos Spaghetti,Secos,Oeste,27,450
+185,2025-09-03,Pollo Entero,Carnes,Oeste,28,400
+186,2025-09-08,Agua Mineral 2L,Bebidas,Oeste,5,250
+187,2025-09-20,Arroz 1kg,Secos,Este,7,250
+188,2025-10-03,Agua Mineral 2L,Bebidas,Norte,50,250
+189,2025-09-09,Pollo Entero,Carnes,Norte,19,450
+190,2025-10-25,Yogur Natural,Lácteos,Sur,19,300
+191,2025-10-10,Queso Cremoso,Lácteos,Oeste,17,250
+192,2025-10-16,Yogur Natural,Lácteos,Norte,44,450
+193,2025-09-22,Gaseosa Cola,Bebidas,Sur,46,350
+194,2025-10-06,Queso Cremoso,Lácteos,Oeste,12,300
+195,2025-10-28,Atún en lata,Enlatados,Sur,33,300
+196,2025-10-16,Yogur Natural,Lácteos,Norte,5,300
+197,2025-10-23,Arvejas en lata,Enlatados,Norte,15,350
+198,2025-10-22,Carne Vacuna,Carnes,Este,17,400
+199,2025-10-21,Harina 000,Secos,Norte,20,350
+200,2025-10-19,Atún en lata,Enlatados,Oeste,33,450
+201,2025-09-18,Arvejas en lata,Enlatados,Norte,14,400
+202,2025-09-18,Embutidos,Carnes,Sur,40,300
+203,2025-09-01,Arroz 1kg,Secos,Sur,17,400
+204,2025-10-04,Lechuga,Frutas y Verduras,Sur,44,300
+205,2025-09-03,Yogur Natural,Lácteos,Norte,43,250
+206,2025-09-15,Agua Mineral 2L,Bebidas,Sur,6,400
+207,2025-09-16,Pollo Entero,Carnes,Oeste,37,300
+208,2025-09-17,Banana,Frutas y Verduras,Oeste,35,450
+209,2025-09-21,Pollo Entero,Carnes,Oeste,36,400
+210,2025-09-10,Jugo Naranja,Bebidas,Este,38,450
+211,2025-09-04,Agua Mineral 2L,Bebidas,Sur,33,450
+212,2025-10-14,Lechuga,Frutas y Verduras,Sur,13,300
+213,2025-09-27,Queso Cremoso,Lácteos,Sur,26,250
+214,2025-10-29,Banana,Frutas y Verduras,Oeste,42,300
+215,2025-09-08,Maíz dulce,Enlatados,Sur,43,350
+216,2025-09-17,Leche Entera 1L,Lácteos,Norte,29,300
+217,2025-10-21,Maíz dulce,Enlatados,Oeste,18,300
+218,2025-10-02,Gaseosa Cola,Bebidas,Este,9,250
+219,2025-09-04,Jugo Naranja,Bebidas,Sur,17,450
+220,2025-10-23,Galletas dulces,Panificados,Este,48,250
+221,2025-09-13,Pollo Entero,Carnes,Sur,11,400
+222,2025-10-16,Jugo Naranja,Bebidas,Sur,17,250
+223,2025-10-08,Arroz 1kg,Secos,Sur,16,450
+224,2025-10-23,Agua Mineral 2L,Bebidas,Oeste,18,350
+225,2025-09-11,Harina 000,Secos,Este,15,300
+226,2025-10-20,Arvejas en lata,Enlatados,Oeste,9,400
+227,2025-09-20,Pan Blanco,Panificados,Sur,18,350
+228,2025-09-22,Arroz 1kg,Secos,Sur,37,250
+229,2025-09-02,Fideos Spaghetti,Secos,Sur,44,300
+230,2025-10-10,Yogur Natural,Lácteos,Este,45,250
+231,2025-09-07,Yogur Natural,Lácteos,Norte,19,450
+232,2025-10-31,Facturas,Panificados,Norte,44,300
+233,2025-10-23,Fideos Spaghetti,Secos,Oeste,32,400
+234,2025-10-04,Fideos Spaghetti,Secos,Oeste,5,300
+235,2025-10-31,Harina 000,Secos,Oeste,45,300
+236,2025-10-28,Facturas,Panificados,Este,12,350
+237,2025-10-19,Atún en lata,Enlatados,Este,34,450
+238,2025-10-08,Carne Vacuna,Carnes,Este,50,250
+239,2025-09-07,Manzana,Frutas y Verduras,Sur,49,450
+240,2025-09-21,Manzana,Frutas y Verduras,Oeste,39,350
+241,2025-09-26,Jugo Naranja,Bebidas,Este,15,400
+242,2025-09-08,Yogur Natural,Lácteos,Norte,15,450
+243,2025-10-18,Fideos Spaghetti,Secos,Norte,13,350
+244,2025-10-08,Embutidos,Carnes,Oeste,9,350
+245,2025-10-25,Manzana,Frutas y Verduras,Sur,10,300
+246,2025-09-15,Jugo Naranja,Bebidas,Oeste,48,400
+247,2025-09-08,Leche Entera 1L,Lácteos,Norte,50,350
+248,2025-09-17,Fideos Spaghetti,Secos,Oeste,50,300
+249,2025-09-10,Manzana,Frutas y Verduras,Este,37,350
+250,2025-09-16,Arvejas en lata,Enlatados,Norte,47,300
+251,2025-09-11,Manzana,Frutas y Verduras,Sur,31,300
+252,2025-09-01,Banana,Frutas y Verduras,Oeste,11,350
+253,2025-09-06,Yogur Natural,Lácteos,Norte,42,450
+254,2025-09-08,Banana,Frutas y Verduras,Norte,23,400
+255,2025-10-29,Jugo Naranja,Bebidas,Oeste,36,400
+256,2025-09-12,Yogur Natural,Lácteos,Oeste,25,300
+257,2025-09-10,Leche Entera 1L,Lácteos,Norte,43,300
+258,2025-10-15,Arvejas en lata,Enlatados,Este,7,450
+259,2025-09-28,Facturas,Panificados,Sur,19,400
+260,2025-10-17,Facturas,Panificados,Norte,40,350
+261,2025-10-02,Agua Mineral 2L,Bebidas,Oeste,24,450
+262,2025-09-20,Maíz dulce,Enlatados,Oeste,29,450
+263,2025-10-09,Queso Cremoso,Lácteos,Este,29,250
+264,2025-10-17,Manzana,Frutas y Verduras,Norte,21,250
+265,2025-10-06,Pan Blanco,Panificados,Norte,24,300
+266,2025-10-27,Banana,Frutas y Verduras,Norte,50,400
+267,2025-09-18,Atún en lata,Enlatados,Norte,14,450
+268,2025-10-28,Pollo Entero,Carnes,Sur,26,250
+269,2025-09-02,Pan Blanco,Panificados,Oeste,24,350
+270,2025-09-16,Embutidos,Carnes,Oeste,5,250
+271,2025-10-20,Arvejas en lata,Enlatados,Sur,49,350
+272,2025-10-17,Gaseosa Cola,Bebidas,Norte,7,250
+273,2025-10-16,Arroz 1kg,Secos,Este,17,350
+274,2025-09-02,Embutidos,Carnes,Sur,33,400
+275,2025-09-18,Arvejas en lata,Enlatados,Sur,17,250
+276,2025-09-09,Embutidos,Carnes,Sur,46,350
+277,2025-09-29,Fideos Spaghetti,Secos,Este,45,400
+278,2025-09-10,Harina 000,Secos,Oeste,46,350
+279,2025-10-19,Embutidos,Carnes,Oeste,34,250
+280,2025-10-23,Pollo Entero,Carnes,Sur,6,450
+281,2025-10-08,Pollo Entero,Carnes,Este,46,350
+282,2025-09-30,Facturas,Panificados,Oeste,24,300
+283,2025-10-04,Leche Entera 1L,Lácteos,Norte,31,450
+284,2025-10-04,Galletas dulces,Panificados,Oeste,42,350
+285,2025-09-30,Pan Blanco,Panificados,Sur,12,300
+286,2025-09-27,Arroz 1kg,Secos,Oeste,33,400
+287,2025-10-19,Queso Cremoso,Lácteos,Este,36,400
+288,2025-09-10,Jugo Naranja,Bebidas,Oeste,43,350
+289,2025-10-23,Facturas,Panificados,Norte,26,350
+290,2025-09-10,Galletas dulces,Panificados,Norte,36,400
+291,2025-10-20,Maíz dulce,Enlatados,Sur,44,350
+292,2025-09-26,Pollo Entero,Carnes,Norte,47,350
+293,2025-10-17,Galletas dulces,Panificados,Sur,44,450
+294,2025-09-14,Manzana,Frutas y Verduras,Oeste,33,400
+295,2025-10-18,Banana,Frutas y Verduras,Sur,50,400
+296,2025-09-03,Maíz dulce,Enlatados,Oeste,29,300
+297,2025-10-18,Gaseosa Cola,Bebidas,Oeste,32,450
+298,2025-09-23,Agua Mineral 2L,Bebidas,Sur,9,350
+299,2025-09-15,Embutidos,Carnes,Sur,20,350
+300,2025-09-29,Atún en lata,Enlatados,Sur,14,450
+301,2025-10-02,Manzana,Frutas y Verduras,Este,13,400
+302,2025-09-29,Manzana,Frutas y Verduras,Norte,34,250
+303,2025-09-18,Agua Mineral 2L,Bebidas,Norte,21,450
+304,2025-10-30,Harina 000,Secos,Oeste,45,300
+305,2025-09-18,Agua Mineral 2L,Bebidas,Sur,11,350
+306,2025-10-22,Leche Entera 1L,Lácteos,Oeste,36,300
+307,2025-09-26,Harina 000,Secos,Este,41,400
+308,2025-09-15,Harina 000,Secos,Norte,40,300
+309,2025-09-28,Harina 000,Secos,Norte,14,300
+310,2025-09-19,Banana,Frutas y Verduras,Norte,5,400
+311,2025-10-13,Jugo Naranja,Bebidas,Sur,46,350
+312,2025-09-24,Lechuga,Frutas y Verduras,Este,46,250
+313,2025-09-07,Gaseosa Cola,Bebidas,Oeste,13,250
+314,2025-10-18,Pollo Entero,Carnes,Sur,9,250
+315,2025-09-13,Harina 000,Secos,Sur,12,250
+316,2025-09-21,Yogur Natural,Lácteos,Norte,31,250
+317,2025-10-08,Agua Mineral 2L,Bebidas,Norte,49,250
+318,2025-10-18,Banana,Frutas y Verduras,Este,46,350
+319,2025-09-17,Maíz dulce,Enlatados,Oeste,9,450
+320,2025-09-01,Arvejas en lata,Enlatados,Oeste,32,350
+321,2025-10-11,Carne Vacuna,Carnes,Este,11,400
+322,2025-09-08,Harina 000,Secos,Este,30,400
+323,2025-09-30,Jugo Naranja,Bebidas,Norte,38,250
+324,2025-10-31,Leche Entera 1L,Lácteos,Oeste,18,250
+325,2025-10-28,Leche Entera 1L,Lácteos,Este,13,450
+326,2025-09-26,Yogur Natural,Lácteos,Oeste,23,250
+327,2025-10-01,Yogur Natural,Lácteos,Este,40,350
+328,2025-10-26,Embutidos,Carnes,Norte,20,250
+329,2025-10-30,Yogur Natural,Lácteos,Este,7,350
+330,2025-09-22,Facturas,Panificados,Sur,49,450
+331,2025-09-16,Arroz 1kg,Secos,Oeste,28,300
+332,2025-10-29,Arroz 1kg,Secos,Este,8,300
+333,2025-10-21,Maíz dulce,Enlatados,Norte,41,400
+334,2025-10-10,Agua Mineral 2L,Bebidas,Este,33,450
+335,2025-10-30,Gaseosa Cola,Bebidas,Oeste,7,400
+336,2025-10-22,Galletas dulces,Panificados,Este,22,250
+337,2025-09-02,Queso Cremoso,Lácteos,Norte,36,250
+338,2025-10-26,Carne Vacuna,Carnes,Norte,48,300
+339,2025-09-04,Harina 000,Secos,Norte,28,300
+340,2025-10-23,Galletas dulces,Panificados,Sur,43,300
+341,2025-10-20,Agua Mineral 2L,Bebidas,Oeste,5,400
+342,2025-10-26,Harina 000,Secos,Norte,47,300
+343,2025-09-18,Carne Vacuna,Carnes,Oeste,35,250
+344,2025-10-20,Yogur Natural,Lácteos,Este,15,300
+345,2025-10-26,Carne Vacuna,Carnes,Norte,25,450
+346,2025-09-02,Carne Vacuna,Carnes,Sur,14,350
+347,2025-09-05,Manzana,Frutas y Verduras,Sur,37,250
+348,2025-10-15,Arroz 1kg,Secos,Este,16,400
+349,2025-09-04,Agua Mineral 2L,Bebidas,Oeste,26,450
+350,2025-10-09,Atún en lata,Enlatados,Sur,13,350
+351,2025-10-17,Gaseosa Cola,Bebidas,Oeste,45,350
+352,2025-10-08,Carne Vacuna,Carnes,Sur,40,350
+353,2025-10-01,Queso Cremoso,Lácteos,Norte,7,400
+354,2025-10-19,Harina 000,Secos,Norte,26,400
+355,2025-09-24,Jugo Naranja,Bebidas,Sur,33,300
+356,2025-10-05,Lechuga,Frutas y Verduras,Este,15,450
+357,2025-10-19,Banana,Frutas y Verduras,Norte,9,450
+358,2025-09-06,Arroz 1kg,Secos,Norte,20,350
+359,2025-10-18,Pan Blanco,Panificados,Sur,8,450
+360,2025-09-25,Jugo Naranja,Bebidas,Este,21,450
+361,2025-10-06,Lechuga,Frutas y Verduras,Norte,8,450
+362,2025-09-27,Gaseosa Cola,Bebidas,Norte,29,400
+363,2025-10-07,Yogur Natural,Lácteos,Oeste,11,350
+364,2025-10-01,Atún en lata,Enlatados,Norte,35,300
+365,2025-10-09,Fideos Spaghetti,Secos,Oeste,47,400
+366,2025-09-26,Banana,Frutas y Verduras,Este,22,250
+367,2025-09-18,Galletas dulces,Panificados,Oeste,44,250
+368,2025-10-07,Maíz dulce,Enlatados,Oeste,17,450
+369,2025-09-19,Galletas dulces,Panificados,Sur,26,400
+370,2025-09-02,Facturas,Panificados,Este,9,250
+371,2025-10-23,Facturas,Panificados,Norte,16,250
+372,2025-09-18,Gaseosa Cola,Bebidas,Sur,43,350
+373,2025-10-01,Harina 000,Secos,Norte,22,450
+374,2025-09-11,Arvejas en lata,Enlatados,Sur,11,450
+375,2025-09-30,Atún en lata,Enlatados,Este,6,400
+376,2025-09-11,Jugo Naranja,Bebidas,Norte,20,450
+377,2025-09-29,Lechuga,Frutas y Verduras,Oeste,45,350
+378,2025-09-03,Maíz dulce,Enlatados,Norte,8,250
+379,2025-09-27,Arvejas en lata,Enlatados,Este,8,450
+380,2025-10-04,Yogur Natural,Lácteos,Oeste,20,250
+381,2025-10-19,Arroz 1kg,Secos,Sur,16,400
+382,2025-10-05,Galletas dulces,Panificados,Sur,42,350
+383,2025-10-08,Gaseosa Cola,Bebidas,Norte,17,450
+384,2025-09-09,Harina 000,Secos,Sur,12,450
+385,2025-09-20,Arroz 1kg,Secos,Sur,11,350
+386,2025-10-27,Jugo Naranja,Bebidas,Este,37,400
+387,2025-10-04,Harina 000,Secos,Sur,17,300
+388,2025-10-06,Galletas dulces,Panificados,Este,31,300
+389,2025-09-28,Lechuga,Frutas y Verduras,Este,36,400
+390,2025-10-26,Queso Cremoso,Lácteos,Este,6,250
+391,2025-09-26,Embutidos,Carnes,Norte,42,350
+392,2025-09-22,Harina 000,Secos,Oeste,23,450
+393,2025-10-30,Atún en lata,Enlatados,Oeste,25,300
+394,2025-09-28,Manzana,Frutas y Verduras,Oeste,28,300
+395,2025-10-04,Leche Entera 1L,Lácteos,Norte,30,450
+396,2025-09-12,Maíz dulce,Enlatados,Norte,47,250
+397,2025-10-29,Agua Mineral 2L,Bebidas,Norte,39,450
+398,2025-10-28,Jugo Naranja,Bebidas,Norte,31,300
+399,2025-10-12,Lechuga,Frutas y Verduras,Sur,44,450
+400,2025-10-07,Yogur Natural,Lácteos,Este,9,450
+401,2025-09-26,Embutidos,Carnes,Sur,13,300
+402,2025-09-24,Pollo Entero,Carnes,Sur,16,350
+403,2025-10-12,Carne Vacuna,Carnes,Oeste,30,250
+404,2025-10-27,Banana,Frutas y Verduras,Oeste,5,450
+405,2025-10-14,Arroz 1kg,Secos,Norte,32,400
+406,2025-10-18,Agua Mineral 2L,Bebidas,Este,29,400
+407,2025-09-22,Queso Cremoso,Lácteos,Sur,6,300
+408,2025-10-24,Maíz dulce,Enlatados,Este,43,300
+409,2025-09-23,Pan Blanco,Panificados,Sur,14,350
+410,2025-10-28,Pan Blanco,Panificados,Sur,46,250
+411,2025-10-24,Leche Entera 1L,Lácteos,Este,42,350
+412,2025-10-08,Queso Cremoso,Lácteos,Oeste,14,300
+413,2025-10-07,Jugo Naranja,Bebidas,Sur,49,350
+414,2025-09-27,Galletas dulces,Panificados,Sur,34,400
+415,2025-10-03,Arvejas en lata,Enlatados,Norte,18,300
+416,2025-10-24,Maíz dulce,Enlatados,Oeste,47,400
+417,2025-09-06,Leche Entera 1L,Lácteos,Norte,19,450
+418,2025-09-05,Atún en lata,Enlatados,Este,9,450
+419,2025-10-12,Manzana,Frutas y Verduras,Este,13,350
+420,2025-09-04,Carne Vacuna,Carnes,Norte,13,450
+421,2025-10-30,Manzana,Frutas y Verduras,Sur,28,400
+422,2025-10-05,Harina 000,Secos,Oeste,8,350
+423,2025-09-17,Agua Mineral 2L,Bebidas,Norte,12,450
+424,2025-10-24,Carne Vacuna,Carnes,Sur,50,250
+425,2025-09-09,Facturas,Panificados,Oeste,34,450
+426,2025-10-26,Maíz dulce,Enlatados,Oeste,36,350
+427,2025-09-04,Yogur Natural,Lácteos,Sur,42,450
+428,2025-10-07,Queso Cremoso,Lácteos,Oeste,33,250
+429,2025-09-30,Atún en lata,Enlatados,Norte,20,400
+430,2025-10-26,Facturas,Panificados,Oeste,6,450
+431,2025-09-12,Queso Cremoso,Lácteos,Norte,49,400
+432,2025-09-30,Arroz 1kg,Secos,Norte,6,400
+433,2025-09-26,Lechuga,Frutas y Verduras,Este,20,400
+434,2025-10-23,Jugo Naranja,Bebidas,Oeste,41,400
+435,2025-09-14,Gaseosa Cola,Bebidas,Oeste,29,400
+436,2025-10-18,Galletas dulces,Panificados,Este,39,250
+437,2025-10-06,Banana,Frutas y Verduras,Este,32,250
+438,2025-09-23,Arvejas en lata,Enlatados,Este,34,300
+439,2025-09-17,Facturas,Panificados,Sur,45,250
+440,2025-09-10,Fideos Spaghetti,Secos,Norte,15,300
+441,2025-09-24,Leche Entera 1L,Lácteos,Oeste,39,450
+442,2025-10-16,Yogur Natural,Lácteos,Sur,16,250
+443,2025-10-18,Gaseosa Cola,Bebidas,Oeste,50,350
+444,2025-09-18,Harina 000,Secos,Este,39,400
+445,2025-09-06,Agua Mineral 2L,Bebidas,Este,13,450
+446,2025-09-25,Pollo Entero,Carnes,Sur,19,400
+447,2025-09-26,Manzana,Frutas y Verduras,Sur,18,450
+448,2025-10-23,Agua Mineral 2L,Bebidas,Norte,9,400
+449,2025-10-22,Jugo Naranja,Bebidas,Este,13,300
+450,2025-10-29,Lechuga,Frutas y Verduras,Sur,16,400
+451,2025-09-15,Yogur Natural,Lácteos,Oeste,33,450
+452,2025-09-24,Pollo Entero,Carnes,Norte,50,300
+453,2025-09-17,Gaseosa Cola,Bebidas,Sur,27,250
+454,2025-09-29,Carne Vacuna,Carnes,Oeste,26,250
+455,2025-10-20,Manzana,Frutas y Verduras,Norte,19,450
+456,2025-10-02,Galletas dulces,Panificados,Norte,40,400
+457,2025-09-19,Carne Vacuna,Carnes,Sur,36,250
+458,2025-09-17,Atún en lata,Enlatados,Sur,31,450
+459,2025-10-26,Pollo Entero,Carnes,Este,18,350
+460,2025-09-14,Banana,Frutas y Verduras,Oeste,17,300
+461,2025-09-30,Facturas,Panificados,Norte,46,450
+462,2025-10-09,Atún en lata,Enlatados,Este,35,250
+463,2025-09-26,Pollo Entero,Carnes,Este,48,250
+464,2025-10-14,Atún en lata,Enlatados,Sur,24,350
+465,2025-10-27,Embutidos,Carnes,Norte,22,350
+466,2025-09-28,Atún en lata,Enlatados,Sur,13,250
+467,2025-09-10,Galletas dulces,Panificados,Oeste,47,450
+468,2025-09-27,Galletas dulces,Panificados,Norte,23,250
+469,2025-09-04,Agua Mineral 2L,Bebidas,Norte,50,350
+470,2025-09-18,Carne Vacuna,Carnes,Este,33,350
+471,2025-09-25,Fideos Spaghetti,Secos,Este,25,300
+472,2025-10-10,Facturas,Panificados,Sur,37,250
+473,2025-10-17,Arvejas en lata,Enlatados,Oeste,35,400
+474,2025-09-21,Banana,Frutas y Verduras,Sur,41,250
+475,2025-09-21,Facturas,Panificados,Oeste,40,250
+476,2025-09-25,Manzana,Frutas y Verduras,Norte,18,400
+477,2025-09-01,Carne Vacuna,Carnes,Sur,12,300
+478,2025-10-29,Jugo Naranja,Bebidas,Norte,21,450
+479,2025-09-01,Pollo Entero,Carnes,Norte,20,250
+480,2025-10-26,Embutidos,Carnes,Sur,25,450
+481,2025-10-27,Embutidos,Carnes,Este,39,450
+482,2025-10-29,Atún en lata,Enlatados,Sur,24,250
+483,2025-10-19,Maíz dulce,Enlatados,Sur,27,300
+484,2025-10-28,Jugo Naranja,Bebidas,Sur,26,450
+485,2025-09-02,Lechuga,Frutas y Verduras,Este,43,300
+486,2025-09-07,Arroz 1kg,Secos,Norte,23,300
+487,2025-09-17,Banana,Frutas y Verduras,Este,8,400
+488,2025-09-03,Banana,Frutas y Verduras,Sur,12,400
+489,2025-09-10,Harina 000,Secos,Norte,41,300
+490,2025-09-11,Maíz dulce,Enlatados,Este,16,250
+491,2025-10-24,Leche Entera 1L,Lácteos,Norte,17,450
+492,2025-10-30,Lechuga,Frutas y Verduras,Este,27,300
+493,2025-10-25,Arvejas en lata,Enlatados,Norte,12,300
+494,2025-10-06,Banana,Frutas y Verduras,Sur,40,450
+495,2025-09-28,Yogur Natural,Lácteos,Oeste,5,450
+496,2025-10-17,Arvejas en lata,Enlatados,Este,37,250
+497,2025-09-21,Maíz dulce,Enlatados,Oeste,38,250
+498,2025-09-02,Pan Blanco,Panificados,Este,22,250
+499,2025-10-23,Carne Vacuna,Carnes,Norte,35,400
+500,2025-09-07,Atún en lata,Enlatados,Este,12,450
+501,2025-10-20,Gaseosa Cola,Bebidas,Este,22,300
+502,2025-10-20,Facturas,Panificados,Este,25,350
+503,2025-09-21,Arvejas en lata,Enlatados,Norte,29,350
+504,2025-09-04,Harina 000,Secos,Este,24,450
+505,2025-09-22,Carne Vacuna,Carnes,Este,48,300
+506,2025-09-19,Yogur Natural,Lácteos,Sur,18,400
+507,2025-09-08,Atún en lata,Enlatados,Oeste,44,400
+508,2025-10-17,Atún en lata,Enlatados,Este,50,350
+509,2025-09-11,Yogur Natural,Lácteos,Este,11,300
+510,2025-10-03,Maíz dulce,Enlatados,Norte,21,350
+511,2025-09-26,Banana,Frutas y Verduras,Norte,31,400
+512,2025-09-24,Jugo Naranja,Bebidas,Oeste,45,300
+513,2025-10-22,Fideos Spaghetti,Secos,Oeste,24,400
+514,2025-10-18,Arroz 1kg,Secos,Oeste,43,450
+515,2025-09-01,Jugo Naranja,Bebidas,Oeste,19,350
+516,2025-10-12,Atún en lata,Enlatados,Este,41,300
+517,2025-10-27,Arvejas en lata,Enlatados,Sur,36,450
+518,2025-09-30,Gaseosa Cola,Bebidas,Norte,23,300
+519,2025-10-19,Carne Vacuna,Carnes,Norte,26,250
+520,2025-10-18,Yogur Natural,Lácteos,Este,46,400
+521,2025-10-23,Pollo Entero,Carnes,Sur,28,300
+522,2025-10-09,Harina 000,Secos,Oeste,22,250
+523,2025-10-19,Jugo Naranja,Bebidas,Este,17,250
+524,2025-09-28,Pollo Entero,Carnes,Sur,45,450
+525,2025-09-11,Galletas dulces,Panificados,Este,44,350
+526,2025-10-06,Banana,Frutas y Verduras,Oeste,11,400
+527,2025-10-23,Arroz 1kg,Secos,Sur,8,250
+528,2025-09-08,Carne Vacuna,Carnes,Oeste,37,400
+529,2025-09-05,Gaseosa Cola,Bebidas,Sur,17,350
+530,2025-09-10,Galletas dulces,Panificados,Oeste,13,250
+531,2025-10-08,Facturas,Panificados,Oeste,44,450
+532,2025-09-08,Harina 000,Secos,Este,10,250
+533,2025-10-29,Pollo Entero,Carnes,Este,41,300
+534,2025-09-18,Atún en lata,Enlatados,Sur,18,300
+535,2025-09-22,Manzana,Frutas y Verduras,Oeste,41,300
+536,2025-09-22,Embutidos,Carnes,Este,9,250
+537,2025-10-05,Jugo Naranja,Bebidas,Sur,13,250
+538,2025-09-17,Yogur Natural,Lácteos,Este,46,250
+539,2025-09-26,Queso Cremoso,Lácteos,Norte,7,400
+540,2025-09-26,Manzana,Frutas y Verduras,Norte,46,300
+541,2025-10-16,Pollo Entero,Carnes,Sur,23,250
+542,2025-09-15,Banana,Frutas y Verduras,Sur,14,450
+543,2025-10-24,Facturas,Panificados,Sur,50,450
+544,2025-10-18,Harina 000,Secos,Sur,29,350
+545,2025-10-07,Lechuga,Frutas y Verduras,Sur,12,450
+546,2025-10-07,Pan Blanco,Panificados,Norte,6,350
+547,2025-10-03,Leche Entera 1L,Lácteos,Oeste,10,300
+548,2025-09-29,Queso Cremoso,Lácteos,Sur,19,400
+549,2025-09-19,Galletas dulces,Panificados,Norte,18,250
+550,2025-09-02,Pollo Entero,Carnes,Norte,24,450
+551,2025-10-05,Queso Cremoso,Lácteos,Norte,5,300
+552,2025-10-05,Embutidos,Carnes,Norte,30,300
+553,2025-10-03,Leche Entera 1L,Lácteos,Oeste,9,250
+554,2025-09-16,Galletas dulces,Panificados,Este,25,450
+555,2025-09-19,Banana,Frutas y Verduras,Sur,47,450
+556,2025-09-22,Pan Blanco,Panificados,Este,25,350
+557,2025-10-27,Queso Cremoso,Lácteos,Norte,37,250
+558,2025-09-05,Agua Mineral 2L,Bebidas,Sur,33,400
+559,2025-09-16,Agua Mineral 2L,Bebidas,Sur,18,350
+560,2025-10-13,Manzana,Frutas y Verduras,Este,44,450
+561,2025-10-30,Maíz dulce,Enlatados,Este,37,400
+562,2025-10-04,Arroz 1kg,Secos,Oeste,49,400
+563,2025-09-08,Lechuga,Frutas y Verduras,Oeste,48,250
+564,2025-09-21,Queso Cremoso,Lácteos,Norte,42,250
+565,2025-10-27,Pollo Entero,Carnes,Sur,10,300
+566,2025-09-24,Jugo Naranja,Bebidas,Este,9,300
+567,2025-10-11,Gaseosa Cola,Bebidas,Sur,48,300
+568,2025-09-03,Carne Vacuna,Carnes,Oeste,34,450
+569,2025-09-07,Leche Entera 1L,Lácteos,Oeste,48,250
+570,2025-09-30,Carne Vacuna,Carnes,Este,31,450
+571,2025-10-01,Leche Entera 1L,Lácteos,Norte,31,400
+572,2025-09-02,Gaseosa Cola,Bebidas,Este,33,300
+573,2025-10-26,Queso Cremoso,Lácteos,Oeste,15,350
+574,2025-09-15,Arvejas en lata,Enlatados,Oeste,15,300
+575,2025-10-13,Facturas,Panificados,Oeste,18,250
+576,2025-09-20,Carne Vacuna,Carnes,Oeste,28,400
+577,2025-09-30,Embutidos,Carnes,Oeste,38,450
+578,2025-10-03,Arroz 1kg,Secos,Sur,34,300
+579,2025-09-26,Maíz dulce,Enlatados,Sur,10,350
+580,2025-09-10,Banana,Frutas y Verduras,Norte,16,300
+581,2025-10-26,Galletas dulces,Panificados,Norte,32,400
+582,2025-09-13,Banana,Frutas y Verduras,Sur,49,250
+583,2025-09-01,Harina 000,Secos,Sur,42,350
+584,2025-09-10,Fideos Spaghetti,Secos,Oeste,36,300
+585,2025-09-18,Embutidos,Carnes,Oeste,48,450
+586,2025-09-28,Jugo Naranja,Bebidas,Este,30,450
+587,2025-09-15,Maíz dulce,Enlatados,Oeste,11,350
+588,2025-09-03,Pan Blanco,Panificados,Oeste,23,400
+589,2025-10-04,Agua Mineral 2L,Bebidas,Este,19,300
+590,2025-10-20,Jugo Naranja,Bebidas,Norte,40,250
+591,2025-10-29,Banana,Frutas y Verduras,Oeste,20,350
+592,2025-10-22,Arroz 1kg,Secos,Oeste,18,250
+593,2025-10-05,Pollo Entero,Carnes,Este,38,400
+594,2025-09-16,Arvejas en lata,Enlatados,Este,48,250
+595,2025-10-25,Facturas,Panificados,Oeste,44,450
+596,2025-10-24,Gaseosa Cola,Bebidas,Este,20,450
+597,2025-09-21,Galletas dulces,Panificados,Norte,25,450
+598,2025-09-29,Banana,Frutas y Verduras,Oeste,16,350
+599,2025-09-29,Arvejas en lata,Enlatados,Este,32,350
+600,2025-09-19,Arroz 1kg,Secos,Oeste,43,350
+601,2025-09-07,Harina 000,Secos,Oeste,36,300
+602,2025-09-26,Harina 000,Secos,Sur,23,250
+603,2025-09-04,Embutidos,Carnes,Norte,32,300
+604,2025-09-28,Galletas dulces,Panificados,Sur,39,350
+605,2025-10-29,Pan Blanco,Panificados,Sur,7,300
+606,2025-10-02,Agua Mineral 2L,Bebidas,Este,48,350
+607,2025-09-29,Pan Blanco,Panificados,Oeste,41,400
+608,2025-09-12,Gaseosa Cola,Bebidas,Norte,45,300
+609,2025-10-31,Gaseosa Cola,Bebidas,Norte,33,400
+610,2025-10-28,Facturas,Panificados,Este,27,300
+611,2025-10-30,Banana,Frutas y Verduras,Oeste,31,250
+612,2025-09-28,Galletas dulces,Panificados,Sur,40,300
+613,2025-09-17,Carne Vacuna,Carnes,Este,9,450
+614,2025-09-11,Arroz 1kg,Secos,Este,21,300
+615,2025-09-04,Manzana,Frutas y Verduras,Este,18,300
+616,2025-10-05,Leche Entera 1L,Lácteos,Sur,30,250
+617,2025-09-14,Harina 000,Secos,Norte,23,350
+618,2025-10-01,Yogur Natural,Lácteos,Este,42,450
+619,2025-09-20,Carne Vacuna,Carnes,Norte,43,450
+620,2025-10-18,Embutidos,Carnes,Norte,22,300
+621,2025-09-03,Galletas dulces,Panificados,Oeste,29,350
+622,2025-09-22,Harina 000,Secos,Este,15,400
+623,2025-09-04,Galletas dulces,Panificados,Oeste,10,450
+624,2025-10-26,Arroz 1kg,Secos,Este,14,450
+625,2025-09-10,Yogur Natural,Lácteos,Este,7,300
+626,2025-09-22,Carne Vacuna,Carnes,Norte,26,400
+627,2025-09-06,Manzana,Frutas y Verduras,Norte,8,400
+628,2025-10-24,Yogur Natural,Lácteos,Sur,20,300
+629,2025-09-10,Atún en lata,Enlatados,Sur,24,350
+630,2025-09-06,Arroz 1kg,Secos,Este,20,450
+631,2025-09-17,Maíz dulce,Enlatados,Norte,44,400
+632,2025-09-07,Carne Vacuna,Carnes,Sur,43,450
+633,2025-09-05,Agua Mineral 2L,Bebidas,Sur,47,450
+634,2025-10-05,Facturas,Panificados,Este,21,450
+635,2025-10-22,Pan Blanco,Panificados,Norte,35,350
+636,2025-10-18,Arroz 1kg,Secos,Sur,14,300
+637,2025-09-20,Leche Entera 1L,Lácteos,Oeste,25,250
+638,2025-09-02,Galletas dulces,Panificados,Este,43,350
+639,2025-10-30,Arvejas en lata,Enlatados,Oeste,5,300
+640,2025-10-14,Maíz dulce,Enlatados,Norte,8,400
+641,2025-10-16,Pan Blanco,Panificados,Norte,33,350
+642,2025-10-23,Manzana,Frutas y Verduras,Oeste,25,350
+643,2025-09-24,Atún en lata,Enlatados,Este,43,450
+644,2025-09-01,Arvejas en lata,Enlatados,Este,37,450
+645,2025-09-30,Lechuga,Frutas y Verduras,Norte,29,450
+646,2025-09-19,Yogur Natural,Lácteos,Este,5,250
+647,2025-09-18,Fideos Spaghetti,Secos,Este,26,350
+648,2025-09-09,Banana,Frutas y Verduras,Norte,49,300
+649,2025-10-08,Queso Cremoso,Lácteos,Norte,25,250
+650,2025-10-27,Galletas dulces,Panificados,Norte,22,400
+651,2025-10-12,Atún en lata,Enlatados,Sur,10,350
+652,2025-09-08,Arvejas en lata,Enlatados,Este,22,300
+653,2025-10-31,Gaseosa Cola,Bebidas,Este,13,450
+654,2025-09-21,Pollo Entero,Carnes,Este,43,400
+655,2025-10-28,Facturas,Panificados,Oeste,26,300
+656,2025-09-07,Jugo Naranja,Bebidas,Oeste,45,300
+657,2025-09-24,Embutidos,Carnes,Este,45,400
+658,2025-09-12,Facturas,Panificados,Sur,25,400
+659,2025-10-24,Pollo Entero,Carnes,Norte,27,250
+660,2025-09-06,Pan Blanco,Panificados,Este,30,250
+661,2025-10-29,Lechuga,Frutas y Verduras,Sur,40,400
+662,2025-10-17,Banana,Frutas y Verduras,Sur,36,450
+663,2025-10-22,Embutidos,Carnes,Norte,35,250
+664,2025-10-09,Pan Blanco,Panificados,Norte,7,250
+665,2025-09-04,Atún en lata,Enlatados,Oeste,47,300
+666,2025-10-22,Jugo Naranja,Bebidas,Norte,43,350
+667,2025-09-21,Pollo Entero,Carnes,Oeste,16,300
+668,2025-09-26,Facturas,Panificados,Oeste,34,250
+669,2025-10-15,Pan Blanco,Panificados,Este,33,350
+670,2025-10-27,Manzana,Frutas y Verduras,Norte,50,400
+671,2025-09-30,Leche Entera 1L,Lácteos,Este,36,450
+672,2025-10-12,Carne Vacuna,Carnes,Este,12,250
+673,2025-09-20,Arvejas en lata,Enlatados,Sur,12,250
+674,2025-10-08,Pan Blanco,Panificados,Sur,26,250
+675,2025-10-04,Manzana,Frutas y Verduras,Norte,47,350
+676,2025-09-15,Pan Blanco,Panificados,Sur,17,350
+677,2025-10-15,Jugo Naranja,Bebidas,Oeste,47,400
+678,2025-09-03,Manzana,Frutas y Verduras,Oeste,43,300
+679,2025-09-30,Leche Entera 1L,Lácteos,Sur,17,350
+680,2025-10-20,Harina 000,Secos,Sur,30,300
+681,2025-09-03,Lechuga,Frutas y Verduras,Oeste,13,350
+682,2025-09-18,Embutidos,Carnes,Sur,48,300
+683,2025-09-26,Manzana,Frutas y Verduras,Norte,12,250
+684,2025-10-08,Pollo Entero,Carnes,Este,23,300
+685,2025-09-29,Atún en lata,Enlatados,Norte,50,450
+686,2025-10-14,Harina 000,Secos,Oeste,23,250
+687,2025-10-04,Agua Mineral 2L,Bebidas,Norte,34,450
+688,2025-09-23,Pan Blanco,Panificados,Norte,31,400
+689,2025-09-14,Jugo Naranja,Bebidas,Oeste,19,300
+690,2025-09-29,Arvejas en lata,Enlatados,Este,12,300
+691,2025-10-10,Yogur Natural,Lácteos,Norte,14,400
+692,2025-09-11,Gaseosa Cola,Bebidas,Norte,35,450
+693,2025-09-18,Facturas,Panificados,Este,18,300
+694,2025-09-19,Lechuga,Frutas y Verduras,Sur,19,300
+695,2025-10-09,Harina 000,Secos,Este,31,250
+696,2025-09-11,Pollo Entero,Carnes,Este,30,350
+697,2025-09-03,Fideos Spaghetti,Secos,Sur,44,450
+698,2025-09-15,Harina 000,Secos,Oeste,40,400
+699,2025-09-06,Queso Cremoso,Lácteos,Norte,13,350
+700,2025-09-25,Arvejas en lata,Enlatados,Este,36,450
+701,2025-10-01,Facturas,Panificados,Oeste,26,300
+702,2025-10-30,Maíz dulce,Enlatados,Oeste,32,250
+703,2025-09-16,Queso Cremoso,Lácteos,Norte,11,450
+704,2025-09-24,Jugo Naranja,Bebidas,Oeste,6,250
+705,2025-10-05,Embutidos,Carnes,Norte,10,350
+706,2025-09-30,Lechuga,Frutas y Verduras,Sur,33,300
+707,2025-10-06,Agua Mineral 2L,Bebidas,Oeste,49,400
+708,2025-10-30,Pollo Entero,Carnes,Oeste,10,300
+709,2025-10-24,Arroz 1kg,Secos,Norte,49,400
+710,2025-09-30,Embutidos,Carnes,Sur,7,450
+711,2025-09-13,Queso Cremoso,Lácteos,Norte,45,400
+712,2025-10-15,Queso Cremoso,Lácteos,Norte,24,450
+713,2025-09-28,Lechuga,Frutas y Verduras,Sur,42,250
+714,2025-10-23,Fideos Spaghetti,Secos,Este,24,250
+715,2025-10-14,Arvejas en lata,Enlatados,Sur,17,250
+716,2025-09-04,Manzana,Frutas y Verduras,Sur,29,350
+717,2025-09-07,Pan Blanco,Panificados,Este,18,450
+718,2025-09-05,Fideos Spaghetti,Secos,Oeste,32,250
+719,2025-09-12,Arvejas en lata,Enlatados,Este,36,350
+720,2025-09-12,Embutidos,Carnes,Norte,29,450
+721,2025-10-12,Lechuga,Frutas y Verduras,Sur,46,450
+722,2025-09-08,Yogur Natural,Lácteos,Norte,40,350
+723,2025-10-31,Banana,Frutas y Verduras,Oeste,16,450
+724,2025-10-10,Carne Vacuna,Carnes,Este,15,300
+725,2025-09-14,Embutidos,Carnes,Norte,14,450
+726,2025-10-22,Leche Entera 1L,Lácteos,Norte,31,350
+727,2025-09-14,Gaseosa Cola,Bebidas,Sur,45,450
+728,2025-09-27,Carne Vacuna,Carnes,Este,7,400
+729,2025-09-24,Agua Mineral 2L,Bebidas,Norte,29,400
+730,2025-09-29,Pan Blanco,Panificados,Norte,21,400
+731,2025-10-07,Carne Vacuna,Carnes,Oeste,7,250
+732,2025-10-04,Galletas dulces,Panificados,Oeste,22,350
+733,2025-10-17,Harina 000,Secos,Este,45,350
+734,2025-10-15,Manzana,Frutas y Verduras,Norte,47,300
+735,2025-09-06,Fideos Spaghetti,Secos,Norte,9,350
+736,2025-09-25,Galletas dulces,Panificados,Norte,34,350
+737,2025-09-19,Fideos Spaghetti,Secos,Sur,18,450
+738,2025-09-03,Harina 000,Secos,Este,39,300
+739,2025-09-03,Agua Mineral 2L,Bebidas,Este,22,350
+740,2025-10-04,Carne Vacuna,Carnes,Norte,25,250
+741,2025-10-13,Queso Cremoso,Lácteos,Norte,7,450
+742,2025-10-28,Galletas dulces,Panificados,Sur,32,250
+743,2025-10-25,Pollo Entero,Carnes,Este,49,250
+744,2025-09-22,Facturas,Panificados,Norte,34,400
+745,2025-09-23,Galletas dulces,Panificados,Sur,37,450
+746,2025-09-02,Banana,Frutas y Verduras,Oeste,16,400
+747,2025-09-24,Banana,Frutas y Verduras,Sur,47,250
+748,2025-09-28,Pan Blanco,Panificados,Este,33,300
+749,2025-10-01,Pollo Entero,Carnes,Sur,8,400
+750,2025-09-19,Carne Vacuna,Carnes,Oeste,28,350
+751,2025-09-11,Carne Vacuna,Carnes,Norte,40,250
+752,2025-10-23,Gaseosa Cola,Bebidas,Oeste,23,300
+753,2025-09-26,Leche Entera 1L,Lácteos,Sur,19,300
+754,2025-09-03,Harina 000,Secos,Oeste,7,300
+755,2025-10-20,Harina 000,Secos,Sur,22,300
+756,2025-09-25,Carne Vacuna,Carnes,Norte,38,350
+757,2025-09-21,Banana,Frutas y Verduras,Oeste,6,350
+758,2025-10-28,Manzana,Frutas y Verduras,Norte,48,400
+759,2025-09-11,Pollo Entero,Carnes,Oeste,25,250
+760,2025-09-02,Harina 000,Secos,Sur,24,250
+761,2025-09-04,Manzana,Frutas y Verduras,Sur,42,250
+762,2025-09-19,Carne Vacuna,Carnes,Sur,6,300
+763,2025-09-28,Maíz dulce,Enlatados,Sur,13,450
+764,2025-09-12,Carne Vacuna,Carnes,Oeste,7,250
+765,2025-09-01,Facturas,Panificados,Oeste,15,250
+766,2025-10-04,Yogur Natural,Lácteos,Oeste,9,350
+767,2025-09-05,Fideos Spaghetti,Secos,Este,19,400
+768,2025-09-09,Fideos Spaghetti,Secos,Norte,40,300
+769,2025-10-13,Harina 000,Secos,Norte,36,450
+770,2025-09-16,Arvejas en lata,Enlatados,Oeste,27,350
+771,2025-09-24,Pan Blanco,Panificados,Oeste,17,250
+772,2025-10-14,Embutidos,Carnes,Este,34,250
+773,2025-09-01,Atún en lata,Enlatados,Norte,9,250
+774,2025-10-25,Lechuga,Frutas y Verduras,Norte,30,450
+775,2025-09-03,Galletas dulces,Panificados,Sur,23,450
+776,2025-10-05,Galletas dulces,Panificados,Norte,22,400
+777,2025-10-30,Leche Entera 1L,Lácteos,Sur,22,400
+778,2025-10-09,Arroz 1kg,Secos,Oeste,42,300
+779,2025-09-10,Yogur Natural,Lácteos,Este,40,450
+780,2025-10-01,Maíz dulce,Enlatados,Este,21,350
+781,2025-10-18,Manzana,Frutas y Verduras,Sur,48,450
+782,2025-10-27,Embutidos,Carnes,Oeste,24,300
+783,2025-10-27,Pan Blanco,Panificados,Norte,13,400
+784,2025-09-30,Jugo Naranja,Bebidas,Oeste,27,400
+785,2025-09-21,Atún en lata,Enlatados,Este,10,250
+786,2025-10-17,Yogur Natural,Lácteos,Sur,6,350
+787,2025-09-01,Pan Blanco,Panificados,Oeste,11,250
+788,2025-09-27,Fideos Spaghetti,Secos,Este,6,250
+789,2025-09-01,Agua Mineral 2L,Bebidas,Este,8,300
+790,2025-10-12,Galletas dulces,Panificados,Este,45,450
+791,2025-09-27,Arvejas en lata,Enlatados,Este,19,350
+792,2025-10-23,Pan Blanco,Panificados,Norte,13,450
+793,2025-10-25,Agua Mineral 2L,Bebidas,Sur,8,400
+794,2025-09-02,Carne Vacuna,Carnes,Norte,46,250
+795,2025-10-13,Carne Vacuna,Carnes,Sur,23,350
+796,2025-10-13,Galletas dulces,Panificados,Oeste,23,450
+797,2025-10-23,Maíz dulce,Enlatados,Este,8,350
+798,2025-09-10,Jugo Naranja,Bebidas,Este,32,400
+799,2025-09-24,Yogur Natural,Lácteos,Norte,45,400
+800,2025-09-20,Fideos Spaghetti,Secos,Este,29,300
+801,2025-09-23,Fideos Spaghetti,Secos,Este,18,250
+802,2025-10-29,Banana,Frutas y Verduras,Sur,9,350
+803,2025-10-09,Facturas,Panificados,Norte,48,300
+804,2025-10-26,Maíz dulce,Enlatados,Oeste,14,400
+805,2025-09-18,Agua Mineral 2L,Bebidas,Este,17,250
+806,2025-09-07,Leche Entera 1L,Lácteos,Este,43,450
+807,2025-10-22,Atún en lata,Enlatados,Norte,12,450
+808,2025-10-27,Pan Blanco,Panificados,Este,15,400
+809,2025-10-28,Arroz 1kg,Secos,Norte,17,300
+810,2025-09-21,Pollo Entero,Carnes,Norte,11,450
+811,2025-09-01,Leche Entera 1L,Lácteos,Oeste,26,400
+812,2025-09-17,Embutidos,Carnes,Este,14,250
+813,2025-10-30,Facturas,Panificados,Norte,47,350
+814,2025-10-27,Pollo Entero,Carnes,Norte,17,400
+815,2025-10-17,Facturas,Panificados,Oeste,29,250
+816,2025-09-12,Fideos Spaghetti,Secos,Oeste,43,350
+817,2025-10-31,Arvejas en lata,Enlatados,Oeste,23,300
+818,2025-10-17,Facturas,Panificados,Este,31,250
+819,2025-10-28,Galletas dulces,Panificados,Norte,31,450
+820,2025-09-18,Galletas dulces,Panificados,Norte,31,250
+821,2025-10-06,Gaseosa Cola,Bebidas,Sur,33,400
+822,2025-10-09,Maíz dulce,Enlatados,Norte,23,350
+823,2025-10-22,Maíz dulce,Enlatados,Este,41,250
+824,2025-09-17,Facturas,Panificados,Este,28,350
+825,2025-09-06,Pollo Entero,Carnes,Sur,45,250
+826,2025-09-20,Harina 000,Secos,Oeste,36,300
+827,2025-10-23,Galletas dulces,Panificados,Norte,15,250
+828,2025-09-20,Leche Entera 1L,Lácteos,Oeste,30,300
+829,2025-09-16,Embutidos,Carnes,Norte,20,450
+830,2025-09-30,Agua Mineral 2L,Bebidas,Oeste,11,450
+831,2025-09-24,Lechuga,Frutas y Verduras,Norte,32,400
+832,2025-10-31,Gaseosa Cola,Bebidas,Sur,6,450
+833,2025-10-02,Queso Cremoso,Lácteos,Norte,29,400
+834,2025-10-24,Queso Cremoso,Lácteos,Norte,13,300
+835,2025-09-17,Agua Mineral 2L,Bebidas,Sur,16,400
+836,2025-09-29,Carne Vacuna,Carnes,Norte,49,400
+837,2025-09-07,Arroz 1kg,Secos,Este,44,250
+838,2025-10-29,Pan Blanco,Panificados,Norte,22,450
+839,2025-10-23,Manzana,Frutas y Verduras,Sur,24,400
+840,2025-09-28,Pollo Entero,Carnes,Norte,50,300
+841,2025-10-22,Maíz dulce,Enlatados,Este,46,450
+842,2025-09-08,Arvejas en lata,Enlatados,Este,45,400
+843,2025-09-01,Arroz 1kg,Secos,Oeste,7,400
+844,2025-10-19,Agua Mineral 2L,Bebidas,Norte,41,250
+845,2025-10-28,Embutidos,Carnes,Norte,45,450
+846,2025-09-03,Queso Cremoso,Lácteos,Sur,32,400
+847,2025-09-16,Embutidos,Carnes,Sur,42,250
+848,2025-10-29,Maíz dulce,Enlatados,Sur,34,250
+849,2025-09-01,Leche Entera 1L,Lácteos,Sur,31,300
+850,2025-09-20,Manzana,Frutas y Verduras,Sur,28,450
+851,2025-10-08,Lechuga,Frutas y Verduras,Norte,29,400
+852,2025-09-24,Atún en lata,Enlatados,Este,20,450
+853,2025-10-30,Pan Blanco,Panificados,Oeste,18,300
+854,2025-09-04,Agua Mineral 2L,Bebidas,Oeste,34,450
+855,2025-09-06,Pan Blanco,Panificados,Sur,39,350
+856,2025-09-24,Banana,Frutas y Verduras,Oeste,28,300
+857,2025-10-21,Embutidos,Carnes,Este,8,300
+858,2025-09-02,Jugo Naranja,Bebidas,Sur,20,400
+859,2025-09-14,Yogur Natural,Lácteos,Este,26,350
+860,2025-10-09,Fideos Spaghetti,Secos,Norte,37,350
+861,2025-10-18,Galletas dulces,Panificados,Oeste,25,450
+862,2025-09-14,Galletas dulces,Panificados,Oeste,26,300
+863,2025-10-03,Leche Entera 1L,Lácteos,Norte,26,250
+864,2025-10-04,Banana,Frutas y Verduras,Este,13,300
+865,2025-10-27,Fideos Spaghetti,Secos,Este,48,300
+866,2025-09-14,Jugo Naranja,Bebidas,Oeste,16,300
+867,2025-09-27,Pollo Entero,Carnes,Este,27,400
+868,2025-10-31,Yogur Natural,Lácteos,Norte,25,350
+869,2025-10-22,Lechuga,Frutas y Verduras,Oeste,32,350
+870,2025-09-01,Gaseosa Cola,Bebidas,Este,20,400
+871,2025-10-16,Arvejas en lata,Enlatados,Este,20,250
+872,2025-10-03,Atún en lata,Enlatados,Este,9,250
+873,2025-10-31,Pollo Entero,Carnes,Norte,38,400
+874,2025-10-17,Maíz dulce,Enlatados,Norte,6,450
+875,2025-10-24,Fideos Spaghetti,Secos,Norte,9,350
+876,2025-10-30,Harina 000,Secos,Norte,23,450
+877,2025-09-27,Queso Cremoso,Lácteos,Oeste,38,300
+878,2025-10-17,Galletas dulces,Panificados,Sur,32,400
+879,2025-10-19,Pan Blanco,Panificados,Sur,19,300
+880,2025-10-24,Queso Cremoso,Lácteos,Norte,21,250
+881,2025-10-12,Pollo Entero,Carnes,Oeste,12,250
+882,2025-10-01,Yogur Natural,Lácteos,Oeste,33,450
+883,2025-09-08,Embutidos,Carnes,Norte,50,400
+884,2025-09-16,Leche Entera 1L,Lácteos,Norte,46,250
+885,2025-10-21,Arroz 1kg,Secos,Norte,10,450
+886,2025-10-04,Agua Mineral 2L,Bebidas,Oeste,37,450
+887,2025-09-17,Leche Entera 1L,Lácteos,Oeste,36,450
+888,2025-10-23,Gaseosa Cola,Bebidas,Este,30,350
+889,2025-10-11,Gaseosa Cola,Bebidas,Norte,47,400
+890,2025-10-09,Agua Mineral 2L,Bebidas,Norte,22,450
+891,2025-09-01,Arvejas en lata,Enlatados,Sur,49,350
+892,2025-09-18,Jugo Naranja,Bebidas,Este,37,400
+893,2025-10-14,Pan Blanco,Panificados,Norte,11,450
+894,2025-09-17,Pollo Entero,Carnes,Norte,14,250
+895,2025-09-04,Banana,Frutas y Verduras,Oeste,6,250
+896,2025-09-27,Pan Blanco,Panificados,Sur,38,300
+897,2025-10-12,Carne Vacuna,Carnes,Oeste,8,400
+898,2025-09-01,Embutidos,Carnes,Este,37,250
+899,2025-10-07,Pan Blanco,Panificados,Norte,43,450
+900,2025-10-15,Leche Entera 1L,Lácteos,Sur,16,400
+901,2025-10-30,Gaseosa Cola,Bebidas,Norte,9,400
+902,2025-09-09,Yogur Natural,Lácteos,Este,33,450
+903,2025-10-02,Manzana,Frutas y Verduras,Sur,22,350
+904,2025-10-05,Maíz dulce,Enlatados,Este,17,250
+905,2025-09-07,Fideos Spaghetti,Secos,Este,7,300
+906,2025-09-25,Carne Vacuna,Carnes,Este,49,250
+907,2025-09-24,Maíz dulce,Enlatados,Este,17,350
+908,2025-10-18,Maíz dulce,Enlatados,Sur,13,400
+909,2025-10-30,Pollo Entero,Carnes,Norte,5,300
+910,2025-10-17,Embutidos,Carnes,Norte,43,450
+911,2025-10-01,Harina 000,Secos,Sur,10,450
+912,2025-09-17,Carne Vacuna,Carnes,Sur,43,350
+913,2025-10-15,Carne Vacuna,Carnes,Oeste,23,300
+914,2025-09-01,Yogur Natural,Lácteos,Sur,46,400
+915,2025-10-27,Yogur Natural,Lácteos,Norte,26,300
+916,2025-09-22,Banana,Frutas y Verduras,Este,9,450
+917,2025-10-04,Lechuga,Frutas y Verduras,Sur,28,450
+918,2025-10-16,Yogur Natural,Lácteos,Norte,9,350
+919,2025-10-29,Lechuga,Frutas y Verduras,Oeste,35,450
+920,2025-10-25,Facturas,Panificados,Norte,43,300
+921,2025-09-26,Gaseosa Cola,Bebidas,Norte,7,350
+922,2025-09-18,Atún en lata,Enlatados,Oeste,11,250
+923,2025-09-08,Jugo Naranja,Bebidas,Oeste,18,400
+924,2025-09-30,Gaseosa Cola,Bebidas,Este,5,350
+925,2025-09-11,Arroz 1kg,Secos,Sur,27,350
+926,2025-10-13,Pan Blanco,Panificados,Norte,8,400
+927,2025-09-26,Facturas,Panificados,Oeste,32,250
+928,2025-10-12,Embutidos,Carnes,Oeste,14,450
+929,2025-10-13,Pan Blanco,Panificados,Este,24,400
+930,2025-09-23,Jugo Naranja,Bebidas,Oeste,21,250
+931,2025-09-02,Manzana,Frutas y Verduras,Este,45,250
+932,2025-10-07,Arroz 1kg,Secos,Norte,30,250
+933,2025-09-18,Facturas,Panificados,Sur,47,450
+934,2025-09-18,Arvejas en lata,Enlatados,Sur,29,400
+935,2025-09-18,Arroz 1kg,Secos,Sur,45,450
+936,2025-09-13,Pollo Entero,Carnes,Norte,41,400
+937,2025-10-17,Leche Entera 1L,Lácteos,Norte,11,450
+938,2025-10-23,Carne Vacuna,Carnes,Oeste,33,450
+939,2025-10-09,Pollo Entero,Carnes,Este,49,250
+940,2025-09-03,Jugo Naranja,Bebidas,Sur,12,300
+941,2025-10-27,Maíz dulce,Enlatados,Sur,38,400
+942,2025-09-27,Queso Cremoso,Lácteos,Norte,21,300
+943,2025-09-08,Carne Vacuna,Carnes,Este,25,400
+944,2025-09-17,Maíz dulce,Enlatados,Norte,44,300
+945,2025-09-30,Carne Vacuna,Carnes,Este,13,250
+946,2025-10-09,Gaseosa Cola,Bebidas,Norte,10,300
+947,2025-09-11,Lechuga,Frutas y Verduras,Norte,42,400
+948,2025-10-22,Facturas,Panificados,Sur,20,300
+949,2025-09-14,Atún en lata,Enlatados,Oeste,39,400
+950,2025-09-17,Lechuga,Frutas y Verduras,Sur,29,300
+951,2025-09-24,Arvejas en lata,Enlatados,Sur,18,450
+952,2025-10-25,Fideos Spaghetti,Secos,Sur,16,400
+953,2025-09-06,Atún en lata,Enlatados,Norte,6,450
+954,2025-09-20,Manzana,Frutas y Verduras,Norte,36,350
+955,2025-09-08,Jugo Naranja,Bebidas,Sur,7,250
+956,2025-10-05,Jugo Naranja,Bebidas,Este,45,450
+957,2025-09-25,Banana,Frutas y Verduras,Oeste,49,350
+958,2025-10-29,Pan Blanco,Panificados,Oeste,32,400
+959,2025-09-23,Gaseosa Cola,Bebidas,Sur,30,300
+960,2025-10-14,Jugo Naranja,Bebidas,Norte,48,300
+961,2025-10-16,Galletas dulces,Panificados,Este,34,250
+962,2025-09-12,Galletas dulces,Panificados,Norte,48,450
+963,2025-10-01,Yogur Natural,Lácteos,Sur,18,250
+964,2025-09-20,Carne Vacuna,Carnes,Este,34,400
+965,2025-09-04,Leche Entera 1L,Lácteos,Sur,36,300
+966,2025-10-08,Jugo Naranja,Bebidas,Oeste,36,350
+967,2025-09-13,Fideos Spaghetti,Secos,Norte,30,250
+968,2025-09-21,Lechuga,Frutas y Verduras,Oeste,23,350
+969,2025-10-07,Yogur Natural,Lácteos,Sur,30,250
+970,2025-10-24,Pan Blanco,Panificados,Oeste,26,450
+971,2025-09-15,Fideos Spaghetti,Secos,Este,37,350
+972,2025-09-02,Atún en lata,Enlatados,Norte,12,250
+973,2025-09-26,Maíz dulce,Enlatados,Oeste,45,250
+974,2025-09-15,Yogur Natural,Lácteos,Sur,34,250
+975,2025-09-16,Galletas dulces,Panificados,Oeste,16,350
+976,2025-10-01,Yogur Natural,Lácteos,Norte,42,400
+977,2025-09-16,Facturas,Panificados,Sur,10,300
+978,2025-09-20,Carne Vacuna,Carnes,Este,46,450
+979,2025-09-27,Arvejas en lata,Enlatados,Norte,11,400
+980,2025-10-22,Arvejas en lata,Enlatados,Norte,15,450
+981,2025-09-10,Pollo Entero,Carnes,Sur,18,450
+982,2025-10-24,Galletas dulces,Panificados,Norte,29,450
+983,2025-09-22,Leche Entera 1L,Lácteos,Sur,39,450
+984,2025-09-30,Yogur Natural,Lácteos,Este,46,450
+985,2025-09-07,Galletas dulces,Panificados,Oeste,9,400
+986,2025-10-13,Arvejas en lata,Enlatados,Este,18,450
+987,2025-10-05,Queso Cremoso,Lácteos,Sur,37,450
+988,2025-09-15,Gaseosa Cola,Bebidas,Norte,33,400
+989,2025-10-19,Arvejas en lata,Enlatados,Este,40,400
+990,2025-09-06,Jugo Naranja,Bebidas,Norte,9,300
+991,2025-10-08,Harina 000,Secos,Este,46,450
+992,2025-10-23,Carne Vacuna,Carnes,Este,20,400
+993,2025-09-13,Embutidos,Carnes,Este,26,250
+994,2025-09-08,Facturas,Panificados,Sur,30,400
+995,2025-10-27,Harina 000,Secos,Norte,19,350
+996,2025-09-07,Galletas dulces,Panificados,Sur,13,250
+997,2025-09-14,Banana,Frutas y Verduras,Norte,7,450
+998,2025-10-02,Pan Blanco,Panificados,Oeste,41,400
+999,2025-10-28,Agua Mineral 2L,Bebidas,Sur,17,250
+1000,2025-09-24,Gaseosa Cola,Bebidas,Norte,20,350

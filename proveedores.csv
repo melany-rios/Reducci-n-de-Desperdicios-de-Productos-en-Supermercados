@@ -1,0 +1,8 @@
+id_proveedor,nombre,tiempo_entrega_dias,categoria
+1,Proveedor Lácteos,7,Lácteos
+2,Proveedor Panificados,3,Panificados
+3,Proveedor Carnes,7,Carnes
+4,Proveedor Frutas y Verduras,2,Frutas y Verduras
+5,Proveedor Enlatados,5,Enlatados
+6,Proveedor Secos,2,Secos
+7,Proveedor Bebidas,4,Bebidas

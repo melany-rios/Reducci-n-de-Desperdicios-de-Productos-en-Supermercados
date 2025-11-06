@@ -1,0 +1,301 @@
+id_descarte,producto,sucursal,fecha,cantidad,motivo
+1,Harina 000,Sur,2025-09-09,3,Rotura
+2,Gaseosa Cola,Este,2025-09-24,3,Mal estado
+3,Lechuga,Este,2025-09-27,3,Vencimiento
+4,Facturas,Norte,2025-10-01,7,Mal estado
+5,Harina 000,Norte,2025-10-25,8,Vencimiento
+6,Harina 000,Este,2025-10-15,1,Vencimiento
+7,Agua Mineral 2L,Este,2025-10-19,7,Rotura
+8,Embutidos,Sur,2025-09-26,8,Mal estado
+9,Carne Vacuna,Este,2025-09-18,4,Mal estado
+10,Maíz dulce,Norte,2025-09-21,5,Vencimiento
+11,Galletas dulces,Este,2025-10-07,1,Mal estado
+12,Harina 000,Este,2025-10-31,8,Rotura
+13,Manzana,Este,2025-10-31,3,Rotura
+14,Carne Vacuna,Norte,2025-09-10,3,Rotura
+15,Lechuga,Este,2025-09-10,1,Vencimiento
+16,Harina 000,Sur,2025-10-08,1,Vencimiento
+17,Carne Vacuna,Este,2025-09-19,5,Mal estado
+18,Embutidos,Sur,2025-09-04,6,Vencimiento
+19,Manzana,Este,2025-09-11,2,Vencimiento
+20,Facturas,Oeste,2025-09-30,7,Mal estado
+21,Manzana,Este,2025-10-07,4,Rotura
+22,Maíz dulce,Sur,2025-09-18,7,Rotura
+23,Banana,Este,2025-09-12,2,Vencimiento
+24,Facturas,Este,2025-09-09,9,Rotura
+25,Arvejas en lata,Sur,2025-09-09,6,Vencimiento
+26,Galletas dulces,Oeste,2025-09-26,9,Mal estado
+27,Arroz 1kg,Sur,2025-09-18,6,Vencimiento
+28,Carne Vacuna,Sur,2025-09-27,2,Mal estado
+29,Maíz dulce,Oeste,2025-10-30,2,Mal estado
+30,Jugo Naranja,Este,2025-09-19,3,Rotura
+31,Lechuga,Este,2025-10-28,10,Vencimiento
+32,Pollo Entero,Sur,2025-10-26,7,Mal estado
+33,Harina 000,Este,2025-10-16,5,Vencimiento
+34,Galletas dulces,Oeste,2025-09-01,5,Vencimiento
+35,Gaseosa Cola,Este,2025-09-29,2,Mal estado
+36,Embutidos,Norte,2025-10-24,3,Mal estado
+37,Queso Cremoso,Este,2025-09-12,9,Rotura
+38,Gaseosa Cola,Este,2025-09-20,3,Mal estado
+39,Pollo Entero,Este,2025-09-29,1,Vencimiento
+40,Jugo Naranja,Este,2025-10-19,6,Rotura
+41,Fideos Spaghetti,Norte,2025-09-29,10,Rotura
+42,Leche Entera 1L,Oeste,2025-09-06,1,Vencimiento
+43,Harina 000,Este,2025-10-09,6,Rotura
+44,Leche Entera 1L,Este,2025-09-16,10,Vencimiento
+45,Embutidos,Norte,2025-09-19,7,Vencimiento
+46,Arroz 1kg,Norte,2025-10-19,7,Rotura
+47,Fideos Spaghetti,Norte,2025-09-22,6,Mal estado
+48,Harina 000,Sur,2025-10-07,8,Rotura
+49,Carne Vacuna,Este,2025-10-19,3,Rotura
+50,Agua Mineral 2L,Sur,2025-10-10,3,Rotura
+51,Queso Cremoso,Norte,2025-09-30,2,Rotura
+52,Pan Blanco,Oeste,2025-09-08,1,Vencimiento
+53,Jugo Naranja,Norte,2025-10-21,10,Rotura
+54,Galletas dulces,Norte,2025-09-05,2,Mal estado
+55,Arroz 1kg,Oeste,2025-09-10,10,Vencimiento
+56,Manzana,Este,2025-10-11,6,Vencimiento
+57,Gaseosa Cola,Oeste,2025-09-17,7,Mal estado
+58,Arroz 1kg,Este,2025-09-12,1,Rotura
+59,Manzana,Sur,2025-10-28,8,Vencimiento
+60,Facturas,Este,2025-10-18,6,Vencimiento
+61,Agua Mineral 2L,Norte,2025-10-04,1,Mal estado
+62,Harina 000,Oeste,2025-09-22,3,Rotura
+63,Carne Vacuna,Este,2025-09-30,3,Rotura
+64,Yogur Natural,Sur,2025-10-22,10,Rotura
+65,Jugo Naranja,Oeste,2025-10-31,1,Vencimiento
+66,Harina 000,Norte,2025-10-09,6,Vencimiento
+67,Pan Blanco,Oeste,2025-10-22,5,Rotura
+68,Maíz dulce,Norte,2025-10-11,10,Vencimiento
+69,Manzana,Este,2025-10-27,7,Vencimiento
+70,Manzana,Sur,2025-09-08,7,Vencimiento
+71,Queso Cremoso,Este,2025-10-04,10,Vencimiento
+72,Lechuga,Este,2025-09-03,1,Vencimiento
+73,Pollo Entero,Este,2025-10-30,6,Vencimiento
+74,Jugo Naranja,Sur,2025-10-06,5,Rotura
+75,Maíz dulce,Sur,2025-09-13,9,Vencimiento
+76,Manzana,Oeste,2025-10-29,8,Rotura
+77,Embutidos,Este,2025-09-21,3,Vencimiento
+78,Atún en lata,Este,2025-10-13,4,Mal estado
+79,Maíz dulce,Este,2025-10-23,3,Mal estado
+80,Pan Blanco,Este,2025-09-11,6,Vencimiento
+81,Lechuga,Este,2025-10-25,3,Mal estado
+82,Arvejas en lata,Este,2025-10-23,7,Vencimiento
+83,Facturas,Sur,2025-10-11,1,Rotura
+84,Agua Mineral 2L,Este,2025-09-06,9,Mal estado
+85,Banana,Este,2025-09-28,1,Mal estado
+86,Jugo Naranja,Oeste,2025-10-28,3,Vencimiento
+87,Gaseosa Cola,Sur,2025-10-05,10,Vencimiento
+88,Arvejas en lata,Este,2025-10-12,7,Mal estado
+89,Banana,Sur,2025-10-27,1,Rotura
+90,Manzana,Norte,2025-10-01,10,Vencimiento
+91,Lechuga,Oeste,2025-09-18,4,Vencimiento
+92,Embutidos,Este,2025-10-27,3,Rotura
+93,Lechuga,Este,2025-09-26,8,Rotura
+94,Maíz dulce,Este,2025-10-01,5,Mal estado
+95,Carne Vacuna,Este,2025-09-19,10,Rotura
+96,Harina 000,Este,2025-10-21,7,Rotura
+97,Harina 000,Oeste,2025-09-07,10,Rotura
+98,Carne Vacuna,Este,2025-10-12,7,Mal estado
+99,Yogur Natural,Este,2025-09-01,2,Rotura
+100,Pan Blanco,Norte,2025-10-02,6,Rotura
+101,Manzana,Sur,2025-10-25,4,Mal estado
+102,Arvejas en lata,Este,2025-09-21,7,Mal estado
+103,Facturas,Este,2025-10-27,5,Rotura
+104,Pollo Entero,Este,2025-10-29,2,Rotura
+105,Carne Vacuna,Este,2025-10-20,6,Mal estado
+106,Galletas dulces,Oeste,2025-10-26,7,Mal estado
+107,Embutidos,Este,2025-09-18,4,Mal estado
+108,Atún en lata,Este,2025-10-10,3,Vencimiento
+109,Arroz 1kg,Este,2025-09-24,10,Rotura
+110,Manzana,Oeste,2025-10-18,1,Mal estado
+111,Maíz dulce,Norte,2025-10-27,3,Vencimiento
+112,Arroz 1kg,Este,2025-09-23,6,Mal estado
+113,Atún en lata,Sur,2025-09-17,3,Vencimiento
+114,Arroz 1kg,Oeste,2025-10-01,6,Mal estado
+115,Fideos Spaghetti,Este,2025-10-29,1,Mal estado
+116,Embutidos,Norte,2025-10-21,7,Vencimiento
+117,Queso Cremoso,Norte,2025-10-03,8,Mal estado
+118,Arvejas en lata,Este,2025-09-03,7,Mal estado
+119,Gaseosa Cola,Sur,2025-09-23,2,Rotura
+120,Manzana,Norte,2025-10-29,4,Mal estado
+121,Embutidos,Oeste,2025-09-24,5,Mal estado
+122,Pollo Entero,Norte,2025-10-20,9,Rotura
+123,Galletas dulces,Sur,2025-09-29,4,Rotura
+124,Galletas dulces,Este,2025-09-12,5,Rotura
+125,Banana,Norte,2025-10-23,10,Mal estado
+126,Maíz dulce,Este,2025-09-04,9,Rotura
+127,Pan Blanco,Norte,2025-10-27,7,Rotura
+128,Atún en lata,Este,2025-10-25,2,Rotura
+129,Pollo Entero,Sur,2025-10-29,2,Vencimiento
+130,Lechuga,Oeste,2025-10-05,2,Rotura
+131,Agua Mineral 2L,Este,2025-10-05,5,Mal estado
+132,Manzana,Este,2025-10-13,2,Vencimiento
+133,Manzana,Sur,2025-09-07,8,Mal estado
+134,Fideos Spaghetti,Oeste,2025-10-12,9,Rotura
+135,Gaseosa Cola,Oeste,2025-09-18,4,Vencimiento
+136,Maíz dulce,Este,2025-09-05,2,Rotura
+137,Arvejas en lata,Norte,2025-09-07,6,Vencimiento
+138,Harina 000,Este,2025-10-07,2,Vencimiento
+139,Embutidos,Este,2025-09-30,3,Vencimiento
+140,Queso Cremoso,Este,2025-10-08,2,Rotura
+141,Atún en lata,Norte,2025-09-22,3,Rotura
+142,Queso Cremoso,Norte,2025-09-08,8,Vencimiento
+143,Manzana,Este,2025-10-21,6,Rotura
+144,Lechuga,Este,2025-10-10,7,Rotura
+145,Gaseosa Cola,Este,2025-10-16,7,Vencimiento
+146,Harina 000,Sur,2025-10-27,7,Vencimiento
+147,Embutidos,Oeste,2025-09-29,3,Vencimiento
+148,Banana,Norte,2025-09-08,7,Vencimiento
+149,Gaseosa Cola,Este,2025-10-31,10,Vencimiento
+150,Yogur Natural,Oeste,2025-10-06,5,Rotura
+151,Yogur Natural,Este,2025-10-20,9,Rotura
+152,Galletas dulces,Este,2025-10-10,5,Mal estado
+153,Pollo Entero,Sur,2025-10-23,10,Rotura
+154,Queso Cremoso,Este,2025-10-04,10,Rotura
+155,Leche Entera 1L,Sur,2025-09-08,2,Mal estado
+156,Harina 000,Este,2025-09-02,8,Rotura
+157,Maíz dulce,Oeste,2025-09-06,1,Rotura
+158,Banana,Norte,2025-10-23,6,Vencimiento
+159,Arroz 1kg,Este,2025-10-17,6,Vencimiento
+160,Pollo Entero,Este,2025-09-13,3,Mal estado
+161,Lechuga,Este,2025-10-23,9,Rotura
+162,Queso Cremoso,Este,2025-09-08,2,Mal estado
+163,Pan Blanco,Sur,2025-09-13,8,Vencimiento
+164,Yogur Natural,Este,2025-10-12,1,Vencimiento
+165,Gaseosa Cola,Norte,2025-10-20,1,Rotura
+166,Arvejas en lata,Este,2025-09-08,7,Mal estado
+167,Harina 000,Este,2025-10-06,2,Rotura
+168,Gaseosa Cola,Sur,2025-09-12,3,Rotura
+169,Fideos Spaghetti,Este,2025-09-26,8,Mal estado
+170,Gaseosa Cola,Sur,2025-10-12,4,Mal estado
+171,Galletas dulces,Sur,2025-09-16,10,Rotura
+172,Agua Mineral 2L,Sur,2025-10-25,1,Rotura
+173,Arvejas en lata,Sur,2025-09-10,4,Mal estado
+174,Agua Mineral 2L,Este,2025-09-07,8,Vencimiento
+175,Jugo Naranja,Este,2025-09-10,9,Mal estado
+176,Carne Vacuna,Este,2025-10-07,2,Mal estado
+177,Agua Mineral 2L,Este,2025-09-27,9,Rotura
+178,Agua Mineral 2L,Norte,2025-10-05,3,Rotura
+179,Queso Cremoso,Este,2025-09-14,7,Mal estado
+180,Yogur Natural,Sur,2025-09-25,9,Rotura
+181,Pan Blanco,Este,2025-10-22,5,Rotura
+182,Maíz dulce,Este,2025-09-09,4,Vencimiento
+183,Fideos Spaghetti,Este,2025-10-22,7,Vencimiento
+184,Agua Mineral 2L,Este,2025-10-13,4,Mal estado
+185,Galletas dulces,Este,2025-09-06,1,Vencimiento
+186,Harina 000,Este,2025-09-26,10,Rotura
+187,Atún en lata,Norte,2025-09-30,7,Mal estado
+188,Yogur Natural,Este,2025-09-11,3,Rotura
+189,Manzana,Este,2025-09-13,6,Mal estado
+190,Queso Cremoso,Sur,2025-10-17,7,Rotura
+191,Carne Vacuna,Sur,2025-10-27,2,Mal estado
+192,Carne Vacuna,Este,2025-09-26,4,Vencimiento
+193,Embutidos,Sur,2025-09-04,5,Vencimiento
+194,Arvejas en lata,Este,2025-10-22,3,Vencimiento
+195,Maíz dulce,Este,2025-09-16,7,Vencimiento
+196,Arroz 1kg,Este,2025-10-31,4,Rotura
+197,Arvejas en lata,Este,2025-09-10,2,Mal estado
+198,Yogur Natural,Norte,2025-09-12,9,Rotura
+199,Arroz 1kg,Este,2025-09-17,6,Vencimiento
+200,Agua Mineral 2L,Este,2025-09-27,8,Mal estado
+201,Manzana,Norte,2025-10-21,9,Vencimiento
+202,Pan Blanco,Sur,2025-10-22,2,Vencimiento
+203,Arvejas en lata,Oeste,2025-10-09,9,Mal estado
+204,Fideos Spaghetti,Este,2025-09-05,6,Rotura
+205,Yogur Natural,Norte,2025-10-24,8,Mal estado
+206,Embutidos,Este,2025-10-21,6,Rotura
+207,Galletas dulces,Este,2025-10-29,5,Rotura
+208,Harina 000,Sur,2025-10-14,6,Vencimiento
+209,Harina 000,Este,2025-09-12,6,Vencimiento
+210,Maíz dulce,Norte,2025-09-20,6,Rotura
+211,Galletas dulces,Norte,2025-10-29,4,Mal estado
+212,Harina 000,Este,2025-09-16,6,Vencimiento
+213,Banana,Norte,2025-09-19,6,Mal estado
+214,Queso Cremoso,Este,2025-09-10,4,Vencimiento
+215,Manzana,Norte,2025-10-10,4,Mal estado
+216,Gaseosa Cola,Sur,2025-09-04,5,Rotura
+217,Queso Cremoso,Oeste,2025-10-18,10,Rotura
+218,Galletas dulces,Norte,2025-09-02,6,Vencimiento
+219,Pollo Entero,Este,2025-10-02,4,Rotura
+220,Yogur Natural,Este,2025-09-01,3,Vencimiento
+221,Pan Blanco,Oeste,2025-10-27,7,Rotura
+222,Queso Cremoso,Sur,2025-10-16,4,Mal estado
+223,Arroz 1kg,Este,2025-10-30,1,Vencimiento
+224,Yogur Natural,Sur,2025-09-12,9,Vencimiento
+225,Lechuga,Sur,2025-10-06,7,Vencimiento
+226,Agua Mineral 2L,Este,2025-10-23,6,Rotura
+227,Leche Entera 1L,Este,2025-09-11,9,Mal estado
+228,Embutidos,Este,2025-09-26,3,Mal estado
+229,Arroz 1kg,Este,2025-10-03,8,Vencimiento
+230,Facturas,Este,2025-09-30,4,Vencimiento
+231,Facturas,Norte,2025-10-17,3,Rotura
+232,Arroz 1kg,Este,2025-10-28,10,Rotura
+233,Leche Entera 1L,Norte,2025-10-20,5,Vencimiento
+234,Pollo Entero,Este,2025-09-30,3,Vencimiento
+235,Manzana,Norte,2025-09-03,4,Rotura
+236,Fideos Spaghetti,Este,2025-09-16,5,Rotura
+237,Maíz dulce,Sur,2025-10-01,4,Vencimiento
+238,Galletas dulces,Este,2025-09-11,1,Rotura
+239,Yogur Natural,Este,2025-10-29,5,Vencimiento
+240,Maíz dulce,Oeste,2025-09-20,8,Rotura
+241,Maíz dulce,Norte,2025-09-27,9,Mal estado
+242,Queso Cremoso,Sur,2025-09-27,10,Rotura
+243,Carne Vacuna,Sur,2025-09-27,9,Vencimiento
+244,Leche Entera 1L,Este,2025-10-01,1,Rotura
+245,Carne Vacuna,Sur,2025-09-05,4,Mal estado
+246,Facturas,Sur,2025-10-13,3,Vencimiento
+247,Yogur Natural,Este,2025-10-19,5,Rotura
+248,Facturas,Este,2025-09-22,5,Rotura
+249,Pollo Entero,Este,2025-10-28,7,Rotura
+250,Maíz dulce,Este,2025-09-06,1,Rotura
+251,Agua Mineral 2L,Este,2025-10-15,6,Rotura
+252,Atún en lata,Sur,2025-10-13,7,Rotura
+253,Queso Cremoso,Norte,2025-09-12,10,Rotura
+254,Carne Vacuna,Oeste,2025-10-03,4,Rotura
+255,Yogur Natural,Sur,2025-09-25,2,Mal estado
+256,Jugo Naranja,Este,2025-10-18,10,Rotura
+257,Facturas,Sur,2025-09-02,10,Rotura
+258,Arroz 1kg,Sur,2025-09-11,5,Rotura
+259,Arvejas en lata,Este,2025-09-21,10,Rotura
+260,Arvejas en lata,Sur,2025-09-27,8,Rotura
+261,Jugo Naranja,Este,2025-10-09,7,Mal estado
+262,Banana,Este,2025-09-14,7,Vencimiento
+263,Fideos Spaghetti,Este,2025-10-11,3,Vencimiento
+264,Galletas dulces,Este,2025-10-16,3,Rotura
+265,Leche Entera 1L,Sur,2025-09-21,8,Vencimiento
+266,Gaseosa Cola,Este,2025-10-20,7,Mal estado
+267,Manzana,Oeste,2025-10-21,5,Rotura
+268,Jugo Naranja,Oeste,2025-10-12,2,Mal estado
+269,Arroz 1kg,Oeste,2025-09-02,7,Vencimiento
+270,Banana,Sur,2025-09-22,7,Mal estado
+271,Jugo Naranja,Este,2025-09-25,6,Vencimiento
+272,Arroz 1kg,Este,2025-10-12,3,Vencimiento
+273,Banana,Este,2025-10-13,5,Rotura
+274,Agua Mineral 2L,Sur,2025-09-22,9,Vencimiento
+275,Banana,Oeste,2025-10-20,1,Rotura
+276,Lechuga,Oeste,2025-10-30,9,Rotura
+277,Atún en lata,Sur,2025-10-10,2,Rotura
+278,Queso Cremoso,Sur,2025-09-24,5,Mal estado
+279,Gaseosa Cola,Este,2025-09-21,2,Vencimiento
+280,Carne Vacuna,Este,2025-10-24,5,Rotura
+281,Agua Mineral 2L,Norte,2025-09-30,5,Rotura
+282,Harina 000,Norte,2025-10-23,1,Mal estado
+283,Maíz dulce,Este,2025-09-21,10,Mal estado
+284,Harina 000,Este,2025-10-01,9,Rotura
+285,Galletas dulces,Este,2025-09-22,5,Mal estado
+286,Fideos Spaghetti,Este,2025-09-01,7,Vencimiento
+287,Embutidos,Este,2025-10-06,2,Vencimiento
+288,Carne Vacuna,Oeste,2025-10-31,2,Vencimiento
+289,Fideos Spaghetti,Este,2025-09-13,8,Mal estado
+290,Atún en lata,Este,2025-09-03,1,Mal estado
+291,Gaseosa Cola,Este,2025-09-14,3,Vencimiento
+292,Atún en lata,Este,2025-10-02,6,Vencimiento
+293,Agua Mineral 2L,Norte,2025-09-09,2,Vencimiento
+294,Arvejas en lata,Este,2025-09-12,9,Mal estado
+295,Harina 000,Este,2025-09-13,9,Vencimiento
+296,Agua Mineral 2L,Este,2025-10-01,2,Mal estado
+297,Yogur Natural,Este,2025-09-19,8,Vencimiento
+298,Banana,Este,2025-09-24,3,Mal estado
+299,Yogur Natural,Este,2025-09-21,3,Rotura
+300,Gaseosa Cola,Sur,2025-10-24,9,Rotura

@@ -60,7 +60,9 @@ total_ventas = ventas["cantidad"].sum()
 total_descartes = descarte["cantidad"].sum()
 porcentaje_merma = (total_descartes / total_ventas * 100) if total_ventas > 0 else 0
 productos_vencer = inventario.copy()
-productos_vencer["dias_para_vencer"] = (productos_vencer["fecha_vencimiento"].dt.date - datetime.now().date()).dt.days
+productos_vencer["fecha_vencimiento"] = pd.to_datetime(productos_vencer["fecha_vencimiento"], errors="coerce")
+hoy = pd.Timestamp.now().normalize()
+productos_vencer["dias_para_vencer"] = (productos_vencer["fecha_vencimiento"] - hoy).dt.days
 prox_vencer = productos_vencer[productos_vencer["dias_para_vencer"] <= dias_venc]
 
 col1, col2, col3, col4 = st.columns(4)

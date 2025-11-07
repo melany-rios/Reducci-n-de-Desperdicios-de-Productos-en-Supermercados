@@ -46,13 +46,31 @@ st.markdown("""
             color: #343d31;
         }
 
-        /* KPI cards */
+        /* Tarjetas de métricas (KPI) */
         div[data-testid="metric-container"] {
-            background-color: #F4F6F8;
+            background-color: #FFFFFF; /* Fondo blanco */
+            color: #000000; /* Texto negro */
+            border: 1px solid #E0E0E0;
             border-radius: 12px;
-            padding: 10px;
-            box-shadow: 0px 1px 3px rgba(0,0,0,0.1);
+            padding: 10px 15px;
+            text-align: center;
+            box-shadow: 0px 2px 5px rgba(0,0,0,0.05);
         }
+        
+        /* Títulos de las métricas (por ejemplo, “🛒 Ventas Totales”) */
+        div[data-testid="metric-container"] > label {
+            color: #0072B2; /* Azul institucional */
+            font-weight: 600;
+            font-size: 1.1rem;
+        }
+        
+        /* Valores numéricos grandes */
+        div[data-testid="stMetricValue"] {
+            color: #000000;
+            font-weight: 700;
+            font-size: 1.5rem;
+        }
+
 
         /* Texto de botones y encabezados */
         .stButton>button {

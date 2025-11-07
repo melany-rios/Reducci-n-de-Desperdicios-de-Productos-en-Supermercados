@@ -193,8 +193,6 @@ col3.metric("🗑️ Productos Descartados", f"{total_descartes:,}")
 col4.metric("📉 % de Merma", f"{porcentaje_merma:.2f}%")
 col5.metric("🍽️ Tasa de Donación", f"{tasa_donacion:.1f}%")
 
-st.markdown("<p class='small-note'>Indicadores calculados en base a los datos sintéticos del sistema.</p>", unsafe_allow_html=True)
-
 st.markdown("---")
 
 # --------------------------------------------------------------

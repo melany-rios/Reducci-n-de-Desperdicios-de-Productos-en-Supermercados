@@ -295,8 +295,7 @@ with tab4:
 with tab5:
     st.subheader("📘 Conclusiones Generales")
     st.markdown("""
-    - **Optimización de stock:** permite detectar productos próximos a vencer y reducir pérdidas.  
-    - **Análisis de desempeño:** compara sucursales y categorías para priorizar acciones.  
-    - **Responsabilidad social:** las donaciones contribuyen al impacto positivo en la comunidad.  
-    - **Futuro:** integrar modelos predictivos de demanda y recomendaciones automatizadas.  
+    - **Optimización de stock.**  
+    - **Análisis de desempeño.** 
+    - **Responsabilidad social.**
     """)

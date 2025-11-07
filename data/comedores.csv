@@ -1,4 +1,11 @@
 id_comedor,nombre,direccion,zona,cantidad_donaciones,ultimo_envio,contacto
-1,Comedor Manos Solidarias,Av. Belgrano 1200,Este,12,2025-10-30,385-4000001
-2,Hogar San Vicente,Calle Mitre 350,Norte,8,2025-10-29,385-4000002
-3,Comedor Esperanza Viva,Ruta 9 km 3,Sur,5,2025-10-28,385-4000003
+1,Instalaciones Barceló y asociados S.A.,"Acceso de Encarnita Lerma 221
+Castellón, 06252",Norte,25,2025-10-30 12:11:47.161261,+34827 477 385
+2,Infraestructuras Palomino y asociados S.Coop.,"Cañada Narcisa Bas 27 Apt. 71 
+Vizcaya, 11527",Este,29,2025-10-14 12:11:47.161273,+34 823 111 673
+3,Restauración Guitart & Asociados S.L.L.,"Urbanización de Luna Collado 60
+Ourense, 33242",Oeste,15,2025-10-11 12:11:47.161276,+34 883 881 342
+4,Leon y asociados S.A.,"Urbanización Mohamed Ledesma 3
+Lugo, 27680",Norte,13,2025-10-24 12:11:47.161278,+34873982402
+5,Gomila y Revilla S.L.N.E,"Cañada Fernando Moliner 7
+Córdoba, 35947",Oeste,29,2025-10-29 12:11:47.161280,+34 945620702

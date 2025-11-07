@@ -1,201 +1,501 @@
-id_producto,producto,categoria,sucursal,stock,fecha_vencimiento
-1,Pollo Entero,Carnes,Oeste,138,2025-11-08
-2,Pan Blanco,Panificados,Norte,92,2025-11-15
-3,Jugo Naranja,Bebidas,Oeste,117,2026-02-18
-4,Yogur Natural,Lácteos,Este,33,2025-11-11
-5,Carne Vacuna,Carnes,Este,94,2025-11-13
-6,Harina 000,Secos,Norte,197,2026-04-19
-7,Harina 000,Secos,Oeste,86,2026-04-12
-8,Lechuga,Frutas y Verduras,Este,156,2025-11-10
-9,Banana,Frutas y Verduras,Norte,68,2025-11-12
-10,Gaseosa Cola,Bebidas,Sur,153,2026-03-11
-11,Gaseosa Cola,Bebidas,Oeste,101,2026-03-24
-12,Leche Entera 1L,Lácteos,Este,38,2025-11-09
-13,Leche Entera 1L,Lácteos,Norte,115,2025-11-16
-14,Arvejas en lata,Enlatados,Sur,127,2026-01-28
-15,Carne Vacuna,Carnes,Sur,26,2025-11-08
-16,Queso Cremoso,Lácteos,Norte,76,2025-11-12
-17,Galletas dulces,Panificados,Oeste,57,2025-11-08
-18,Pollo Entero,Carnes,Este,18,2025-11-09
-19,Gaseosa Cola,Bebidas,Sur,12,2026-03-20
-20,Lechuga,Frutas y Verduras,Norte,86,2025-11-07
-21,Queso Cremoso,Lácteos,Oeste,149,2025-11-14
-22,Arroz 1kg,Secos,Norte,94,2026-02-18
-23,Yogur Natural,Lácteos,Norte,82,2025-11-07
-24,Arvejas en lata,Enlatados,Oeste,14,2025-12-24
-25,Maíz dulce,Enlatados,Sur,17,2025-12-11
-26,Lechuga,Frutas y Verduras,Este,55,2025-11-09
-27,Queso Cremoso,Lácteos,Este,191,2025-11-15
-28,Facturas,Panificados,Sur,118,2025-11-08
-29,Manzana,Frutas y Verduras,Oeste,32,2025-11-09
-30,Agua Mineral 2L,Bebidas,Este,46,2025-12-28
-31,Leche Entera 1L,Lácteos,Oeste,173,2025-11-07
-32,Gaseosa Cola,Bebidas,Norte,15,2026-04-21
-33,Arvejas en lata,Enlatados,Este,17,2026-03-24
-34,Gaseosa Cola,Bebidas,Norte,23,2026-04-24
-35,Pan Blanco,Panificados,Oeste,117,2025-11-09
-36,Lechuga,Frutas y Verduras,Oeste,190,2025-11-13
-37,Arvejas en lata,Enlatados,Oeste,141,2026-01-16
-38,Fideos Spaghetti,Secos,Sur,169,2026-03-31
-39,Lechuga,Frutas y Verduras,Oeste,103,2025-11-12
-40,Pollo Entero,Carnes,Este,75,2025-11-08
-41,Gaseosa Cola,Bebidas,Sur,15,2026-04-16
-42,Queso Cremoso,Lácteos,Oeste,52,2025-11-08
-43,Jugo Naranja,Bebidas,Este,62,2025-12-25
-44,Pollo Entero,Carnes,Oeste,177,2025-11-08
-45,Agua Mineral 2L,Bebidas,Norte,50,2026-03-27
-46,Harina 000,Secos,Sur,166,2026-03-28
-47,Fideos Spaghetti,Secos,Norte,89,2026-03-02
-48,Embutidos,Carnes,Sur,54,2025-11-13
-49,Queso Cremoso,Lácteos,Oeste,138,2025-11-15
-50,Arvejas en lata,Enlatados,Norte,190,2026-04-12
-51,Manzana,Frutas y Verduras,Sur,131,2025-11-14
-52,Arvejas en lata,Enlatados,Este,72,2026-03-16
-53,Galletas dulces,Panificados,Este,147,2025-11-12
-54,Fideos Spaghetti,Secos,Sur,18,2026-03-07
-55,Atún en lata,Enlatados,Sur,42,2026-01-17
-56,Lechuga,Frutas y Verduras,Sur,24,2025-11-13
-57,Galletas dulces,Panificados,Sur,188,2025-11-12
-58,Gaseosa Cola,Bebidas,Norte,72,2026-04-01
-59,Embutidos,Carnes,Norte,141,2025-11-16
-60,Queso Cremoso,Lácteos,Sur,142,2025-11-13
-61,Jugo Naranja,Bebidas,Sur,171,2026-02-01
-62,Galletas dulces,Panificados,Este,39,2025-11-13
-63,Harina 000,Secos,Sur,106,2026-03-18
-64,Arvejas en lata,Enlatados,Norte,119,2026-04-01
-65,Agua Mineral 2L,Bebidas,Norte,168,2026-03-10
-66,Banana,Frutas y Verduras,Sur,101,2025-11-09
-67,Embutidos,Carnes,Norte,172,2025-11-10
-68,Manzana,Frutas y Verduras,Sur,83,2025-11-16
-69,Arroz 1kg,Secos,Norte,172,2025-12-28
-70,Arvejas en lata,Enlatados,Oeste,40,2026-01-31
-71,Lechuga,Frutas y Verduras,Este,190,2025-11-15
-72,Leche Entera 1L,Lácteos,Norte,163,2025-11-08
-73,Atún en lata,Enlatados,Oeste,176,2025-12-29
-74,Agua Mineral 2L,Bebidas,Este,65,2026-05-03
-75,Embutidos,Carnes,Norte,75,2025-11-13
-76,Manzana,Frutas y Verduras,Este,151,2025-11-13
-77,Lechuga,Frutas y Verduras,Oeste,150,2025-11-08
-78,Embutidos,Carnes,Este,120,2025-11-10
-79,Facturas,Panificados,Sur,12,2025-11-10
-80,Atún en lata,Enlatados,Norte,190,2026-04-25
-81,Agua Mineral 2L,Bebidas,Norte,40,2026-04-13
-82,Maíz dulce,Enlatados,Norte,172,2026-04-23
-83,Queso Cremoso,Lácteos,Sur,149,2025-11-14
-84,Facturas,Panificados,Sur,160,2025-11-08
-85,Lechuga,Frutas y Verduras,Norte,143,2025-11-11
-86,Banana,Frutas y Verduras,Este,156,2025-11-16
-87,Pan Blanco,Panificados,Oeste,145,2025-11-09
-88,Agua Mineral 2L,Bebidas,Este,81,2026-01-31
-89,Banana,Frutas y Verduras,Oeste,173,2025-11-15
-90,Atún en lata,Enlatados,Sur,108,2026-04-30
-91,Embutidos,Carnes,Sur,48,2025-11-12
-92,Yogur Natural,Lácteos,Oeste,102,2025-11-13
-93,Jugo Naranja,Bebidas,Este,62,2025-12-13
-94,Jugo Naranja,Bebidas,Oeste,19,2026-02-05
-95,Leche Entera 1L,Lácteos,Oeste,123,2025-11-12
-96,Pollo Entero,Carnes,Norte,148,2025-11-14
-97,Facturas,Panificados,Sur,39,2025-11-12
-98,Yogur Natural,Lácteos,Sur,135,2025-11-07
-99,Carne Vacuna,Carnes,Este,147,2025-11-11
-100,Arvejas en lata,Enlatados,Norte,67,2026-02-28
-101,Atún en lata,Enlatados,Norte,38,2026-04-09
-102,Embutidos,Carnes,Este,28,2025-11-13
-103,Yogur Natural,Lácteos,Sur,19,2025-11-15
-104,Gaseosa Cola,Bebidas,Este,179,2026-03-27
-105,Lechuga,Frutas y Verduras,Oeste,199,2025-11-08
-106,Galletas dulces,Panificados,Este,11,2025-11-16
-107,Arroz 1kg,Secos,Sur,129,2025-12-10
-108,Queso Cremoso,Lácteos,Sur,181,2025-11-08
-109,Atún en lata,Enlatados,Sur,145,2026-05-05
-110,Leche Entera 1L,Lácteos,Este,41,2025-11-11
-111,Facturas,Panificados,Oeste,153,2025-11-07
-112,Leche Entera 1L,Lácteos,Norte,99,2025-11-12
-113,Arroz 1kg,Secos,Este,40,2026-02-23
-114,Fideos Spaghetti,Secos,Norte,118,2026-01-30
-115,Maíz dulce,Enlatados,Sur,184,2026-02-27
-116,Yogur Natural,Lácteos,Sur,103,2025-11-09
-117,Galletas dulces,Panificados,Oeste,104,2025-11-08
-118,Atún en lata,Enlatados,Este,168,2025-12-17
-119,Lechuga,Frutas y Verduras,Oeste,103,2025-11-13
-120,Queso Cremoso,Lácteos,Sur,162,2025-11-08
-121,Banana,Frutas y Verduras,Norte,178,2025-11-10
-122,Maíz dulce,Enlatados,Sur,38,2026-04-19
-123,Yogur Natural,Lácteos,Norte,14,2025-11-13
-124,Galletas dulces,Panificados,Oeste,186,2025-11-14
-125,Banana,Frutas y Verduras,Norte,39,2025-11-11
-126,Gaseosa Cola,Bebidas,Sur,156,2025-12-29
-127,Fideos Spaghetti,Secos,Norte,169,2026-01-24
-128,Facturas,Panificados,Oeste,190,2025-11-07
-129,Facturas,Panificados,Oeste,138,2025-11-10
-130,Manzana,Frutas y Verduras,Este,24,2025-11-08
-131,Manzana,Frutas y Verduras,Oeste,77,2025-11-12
-132,Embutidos,Carnes,Sur,13,2025-11-10
-133,Pollo Entero,Carnes,Este,131,2025-11-15
-134,Fideos Spaghetti,Secos,Sur,30,2026-03-21
-135,Arroz 1kg,Secos,Norte,156,2026-04-04
-136,Carne Vacuna,Carnes,Oeste,134,2025-11-14
-137,Pan Blanco,Panificados,Sur,191,2025-11-09
-138,Manzana,Frutas y Verduras,Norte,12,2025-11-10
-139,Harina 000,Secos,Este,136,2026-04-23
-140,Embutidos,Carnes,Norte,135,2025-11-11
-141,Lechuga,Frutas y Verduras,Sur,78,2025-11-15
-142,Leche Entera 1L,Lácteos,Este,152,2025-11-16
-143,Jugo Naranja,Bebidas,Norte,196,2026-01-05
-144,Lechuga,Frutas y Verduras,Este,53,2025-11-16
-145,Arroz 1kg,Secos,Norte,52,2026-01-19
-146,Harina 000,Secos,Sur,195,2026-03-02
-147,Carne Vacuna,Carnes,Oeste,63,2025-11-12
-148,Pollo Entero,Carnes,Oeste,133,2025-11-14
-149,Jugo Naranja,Bebidas,Oeste,125,2025-12-31
-150,Carne Vacuna,Carnes,Oeste,110,2025-11-08
-151,Maíz dulce,Enlatados,Sur,64,2026-02-22
-152,Leche Entera 1L,Lácteos,Norte,86,2025-11-15
-153,Lechuga,Frutas y Verduras,Oeste,82,2025-11-16
-154,Embutidos,Carnes,Oeste,64,2025-11-15
-155,Maíz dulce,Enlatados,Oeste,29,2026-02-17
-156,Gaseosa Cola,Bebidas,Norte,34,2026-01-21
-157,Atún en lata,Enlatados,Norte,140,2026-01-28
-158,Agua Mineral 2L,Bebidas,Oeste,189,2025-12-14
-159,Leche Entera 1L,Lácteos,Este,79,2025-11-07
-160,Arvejas en lata,Enlatados,Este,116,2026-02-11
-161,Harina 000,Secos,Oeste,39,2026-04-16
-162,Lechuga,Frutas y Verduras,Este,109,2025-11-10
-163,Embutidos,Carnes,Este,119,2025-11-10
-164,Carne Vacuna,Carnes,Sur,52,2025-11-09
-165,Jugo Naranja,Bebidas,Oeste,172,2026-02-08
-166,Gaseosa Cola,Bebidas,Sur,164,2026-04-08
-167,Arroz 1kg,Secos,Sur,175,2026-01-03
-168,Maíz dulce,Enlatados,Norte,128,2026-02-27
-169,Leche Entera 1L,Lácteos,Oeste,102,2025-11-08
-170,Fideos Spaghetti,Secos,Oeste,135,2026-04-17
-171,Galletas dulces,Panificados,Este,200,2025-11-15
-172,Manzana,Frutas y Verduras,Este,11,2025-11-09
-173,Embutidos,Carnes,Norte,108,2025-11-13
-174,Embutidos,Carnes,Oeste,170,2025-11-09
-175,Pollo Entero,Carnes,Norte,122,2025-11-11
-176,Yogur Natural,Lácteos,Sur,166,2025-11-16
-177,Harina 000,Secos,Norte,190,2026-03-01
-178,Arroz 1kg,Secos,Sur,138,2026-01-16
-179,Pollo Entero,Carnes,Este,99,2025-11-11
-180,Queso Cremoso,Lácteos,Este,117,2025-11-16
-181,Arroz 1kg,Secos,Este,114,2026-03-20
-182,Harina 000,Secos,Sur,34,2026-03-31
-183,Queso Cremoso,Lácteos,Oeste,103,2025-11-14
-184,Pollo Entero,Carnes,Norte,119,2025-11-14
-185,Yogur Natural,Lácteos,Sur,135,2025-11-08
-186,Queso Cremoso,Lácteos,Oeste,48,2025-11-16
-187,Lechuga,Frutas y Verduras,Este,107,2025-11-09
-188,Fideos Spaghetti,Secos,Norte,24,2025-12-20
-189,Maíz dulce,Enlatados,Este,135,2026-03-13
-190,Agua Mineral 2L,Bebidas,Este,28,2025-12-26
-191,Arroz 1kg,Secos,Norte,107,2026-02-14
-192,Banana,Frutas y Verduras,Sur,151,2025-11-11
-193,Fideos Spaghetti,Secos,Este,96,2026-01-14
-194,Galletas dulces,Panificados,Norte,192,2025-11-15
-195,Pan Blanco,Panificados,Sur,72,2025-11-13
-196,Embutidos,Carnes,Oeste,17,2025-11-08
-197,Lechuga,Frutas y Verduras,Oeste,78,2025-11-16
-198,Agua Mineral 2L,Bebidas,Sur,174,2026-02-28
-199,Queso Cremoso,Lácteos,Este,138,2025-11-11
-200,Arvejas en lata,Enlatados,Sur,122,2026-01-30
+id_producto,producto,categoria,sucursal,stock,fecha_vencimiento,dias_para_vencer
+1,Manzana,Panificados,Sur,63,2025-11-15 12:11:47.153367,7
+2,Pan,Enlatados,Este,111,2025-11-12 12:11:47.153387,4
+3,Manzana,Panificados,Oeste,172,2025-11-14 12:11:47.153392,6
+4,Detergente,Limpieza,Oeste,107,2025-11-11 12:11:47.153396,3
+5,Jugo,Frutas y Verduras,Este,165,2025-11-12 12:11:47.153399,4
+6,Jabón,Enlatados,Norte,11,2025-11-14 12:11:47.153403,6
+7,Manzana,Frutas y Verduras,Oeste,103,2025-11-17 12:11:47.153406,9
+8,Detergente,Lácteos,Norte,150,2025-11-08 12:11:47.153409,0
+9,Jabón,Enlatados,Oeste,178,2025-11-09 12:11:47.153413,1
+10,Tomate en lata,Bebidas,Norte,68,2025-11-25 12:11:47.153424,17
+11,Jugo,Panificados,Este,78,2025-11-22 12:11:47.153428,14
+12,Fideos,Panificados,Sur,128,2025-11-25 12:11:47.153431,17
+13,Yogur,Enlatados,Norte,101,2025-11-27 12:11:47.153435,19
+14,Arroz,Lácteos,Sur,190,2025-11-15 12:11:47.153438,7
+15,Jabón,Panificados,Norte,54,2025-11-17 12:11:47.153442,9
+16,Fideos,Lácteos,Norte,157,2025-11-19 12:11:47.153445,11
+17,Fideos,Limpieza,Norte,33,2025-11-09 12:11:47.153449,1
+18,Jabón,Frutas y Verduras,Norte,198,2025-11-08 12:11:47.153452,0
+19,Fideos,Bebidas,Norte,100,2025-11-19 12:11:47.153456,11
+20,Manzana,Frutas y Verduras,Sur,103,2025-11-08 12:11:47.153459,0
+21,Fideos,Frutas y Verduras,Norte,67,2025-11-21 12:11:47.153463,13
+22,Detergente,Limpieza,Sur,164,2025-11-21 12:11:47.153466,13
+23,Pan,Panificados,Este,163,2025-11-13 12:11:47.153469,5
+24,Manzana,Bebidas,Oeste,137,2025-11-11 12:11:47.153473,3
+25,Fideos,Panificados,Norte,16,2025-11-14 12:11:47.153476,6
+26,Tomate en lata,Enlatados,Oeste,179,2025-11-14 12:11:47.153479,6
+27,Yogur,Frutas y Verduras,Sur,56,2025-11-27 12:11:47.153482,19
+28,Jugo,Enlatados,Este,62,2025-11-10 12:11:47.153486,2
+29,Fideos,Lácteos,Este,196,2025-11-26 12:11:47.153488,18
+30,Leche,Frutas y Verduras,Este,47,2025-11-26 12:11:47.153491,18
+31,Yogur,Panificados,Oeste,62,2025-11-16 12:11:47.153494,8
+32,Tomate en lata,Frutas y Verduras,Sur,152,2025-11-12 12:11:47.153497,4
+33,Detergente,Lácteos,Norte,163,2025-11-11 12:11:47.153500,3
+34,Fideos,Limpieza,Norte,57,2025-11-27 12:11:47.153504,19
+35,Detergente,Enlatados,Sur,104,2025-11-26 12:11:47.153507,18
+36,Fideos,Enlatados,Oeste,156,2025-11-17 12:11:47.153509,9
+37,Arroz,Panificados,Norte,146,2025-11-10 12:11:47.153512,2
+38,Pan,Frutas y Verduras,Sur,73,2025-11-08 12:11:47.153515,0
+39,Detergente,Panificados,Norte,102,2025-11-16 12:11:47.153518,8
+40,Pan,Limpieza,Este,191,2025-11-27 12:11:47.153521,19
+41,Yogur,Frutas y Verduras,Norte,134,2025-11-14 12:11:47.153524,6
+42,Arroz,Frutas y Verduras,Oeste,188,2025-11-27 12:11:47.153527,19
+43,Jugo,Panificados,Sur,48,2025-11-16 12:11:47.153530,8
+44,Manzana,Panificados,Oeste,13,2025-11-20 12:11:47.153533,12
+45,Pan,Lácteos,Sur,135,2025-11-12 12:11:47.153536,4
+46,Arroz,Limpieza,Este,12,2025-11-21 12:11:47.153539,13
+47,Pan,Lácteos,Sur,73,2025-11-17 12:11:47.153542,9
+48,Jabón,Enlatados,Norte,38,2025-11-08 12:11:47.153546,0
+49,Tomate en lata,Frutas y Verduras,Norte,125,2025-11-15 12:11:47.153549,7
+50,Jugo,Panificados,Este,20,2025-11-11 12:11:47.153552,3
+51,Tomate en lata,Frutas y Verduras,Sur,106,2025-11-17 12:11:47.153556,9
+52,Fideos,Frutas y Verduras,Este,111,2025-11-16 12:11:47.153559,8
+53,Pan,Bebidas,Norte,195,2025-11-23 12:11:47.153562,15
+54,Fideos,Enlatados,Oeste,164,2025-11-14 12:11:47.153566,6
+55,Leche,Bebidas,Este,30,2025-11-19 12:11:47.153570,11
+56,Pan,Frutas y Verduras,Oeste,48,2025-11-10 12:11:47.153573,2
+57,Arroz,Panificados,Oeste,111,2025-11-25 12:11:47.153577,17
+58,Jugo,Frutas y Verduras,Sur,55,2025-11-10 12:11:47.153581,2
+59,Fideos,Enlatados,Este,75,2025-11-21 12:11:47.153584,13
+60,Pan,Bebidas,Oeste,100,2025-11-15 12:11:47.153588,7
+61,Leche,Panificados,Oeste,173,2025-11-09 12:11:47.153591,1
+62,Tomate en lata,Frutas y Verduras,Sur,120,2025-11-20 12:11:47.153594,12
+63,Arroz,Limpieza,Sur,91,2025-11-09 12:11:47.153597,1
+64,Jabón,Enlatados,Norte,132,2025-11-12 12:11:47.153600,4
+65,Pan,Enlatados,Oeste,108,2025-11-15 12:11:47.153603,7
+66,Jabón,Limpieza,Norte,44,2025-11-15 12:11:47.153606,7
+67,Yogur,Frutas y Verduras,Oeste,168,2025-11-08 12:11:47.153609,0
+68,Jugo,Enlatados,Norte,165,2025-11-20 12:11:47.153612,12
+69,Pan,Panificados,Sur,112,2025-11-27 12:11:47.153615,19
+70,Detergente,Frutas y Verduras,Este,138,2025-11-13 12:11:47.153618,5
+71,Leche,Frutas y Verduras,Sur,34,2025-11-17 12:11:47.153621,9
+72,Fideos,Bebidas,Norte,52,2025-11-17 12:11:47.153624,9
+73,Detergente,Enlatados,Norte,93,2025-11-15 12:11:47.153627,7
+74,Yogur,Enlatados,Este,60,2025-11-13 12:11:47.153645,5
+75,Jugo,Limpieza,Oeste,139,2025-11-11 12:11:47.153648,3
+76,Tomate en lata,Bebidas,Norte,135,2025-11-26 12:11:47.153651,18
+77,Arroz,Bebidas,Norte,78,2025-11-23 12:11:47.153654,15
+78,Jabón,Enlatados,Norte,18,2025-11-14 12:11:47.153657,6
+79,Yogur,Frutas y Verduras,Este,11,2025-11-09 12:11:47.153660,1
+80,Fideos,Bebidas,Sur,171,2025-11-25 12:11:47.153663,17
+81,Arroz,Limpieza,Norte,197,2025-11-10 12:11:47.153666,2
+82,Tomate en lata,Bebidas,Este,198,2025-11-14 12:11:47.153669,6
+83,Fideos,Limpieza,Norte,168,2025-11-24 12:11:47.153672,16
+84,Leche,Bebidas,Oeste,19,2025-11-17 12:11:47.153683,9
+85,Jabón,Limpieza,Este,123,2025-11-25 12:11:47.153686,17
+86,Detergente,Bebidas,Norte,85,2025-11-17 12:11:47.153689,9
+87,Pan,Bebidas,Este,173,2025-11-14 12:11:47.153692,6
+88,Yogur,Panificados,Norte,94,2025-11-12 12:11:47.153695,4
+89,Pan,Limpieza,Sur,58,2025-11-19 12:11:47.153698,11
+90,Arroz,Limpieza,Norte,79,2025-11-12 12:11:47.153701,4
+91,Pan,Limpieza,Este,186,2025-11-22 12:11:47.153704,14
+92,Detergente,Lácteos,Oeste,140,2025-11-17 12:11:47.153707,9
+93,Manzana,Bebidas,Oeste,142,2025-11-25 12:11:47.153710,17
+94,Arroz,Limpieza,Oeste,198,2025-11-22 12:11:47.153714,14
+95,Jabón,Enlatados,Norte,99,2025-11-25 12:11:47.153717,17
+96,Fideos,Lácteos,Sur,35,2025-11-14 12:11:47.153750,6
+97,Jabón,Panificados,Norte,81,2025-11-12 12:11:47.153753,4
+98,Pan,Limpieza,Oeste,14,2025-11-18 12:11:47.153757,10
+99,Jugo,Limpieza,Este,24,2025-11-08 12:11:47.153760,0
+100,Arroz,Lácteos,Oeste,132,2025-11-20 12:11:47.153762,12
+101,Fideos,Bebidas,Este,153,2025-11-22 12:11:47.153766,14
+102,Tomate en lata,Enlatados,Sur,10,2025-11-16 12:11:47.153769,8
+103,Leche,Panificados,Este,153,2025-11-12 12:11:47.153772,4
+104,Jabón,Limpieza,Norte,174,2025-11-23 12:11:47.153776,15
+105,Jabón,Bebidas,Norte,12,2025-11-14 12:11:47.153779,6
+106,Arroz,Enlatados,Norte,189,2025-11-15 12:11:47.153783,7
+107,Jugo,Enlatados,Este,56,2025-11-10 12:11:47.153786,2
+108,Pan,Panificados,Norte,104,2025-11-20 12:11:47.153789,12
+109,Pan,Frutas y Verduras,Norte,22,2025-11-17 12:11:47.153792,9
+110,Arroz,Enlatados,Norte,129,2025-11-12 12:11:47.153795,4
+111,Jabón,Frutas y Verduras,Sur,64,2025-11-26 12:11:47.153799,18
+112,Fideos,Enlatados,Este,158,2025-11-09 12:11:47.153802,1
+113,Leche,Panificados,Este,75,2025-11-25 12:11:47.153805,17
+114,Arroz,Lácteos,Oeste,191,2025-11-14 12:11:47.153829,6
+115,Fideos,Panificados,Este,164,2025-11-13 12:11:47.153833,5
+116,Fideos,Panificados,Sur,175,2025-11-09 12:11:47.153837,1
+117,Tomate en lata,Lácteos,Este,99,2025-11-16 12:11:47.153840,8
+118,Detergente,Lácteos,Sur,195,2025-11-15 12:11:47.153844,7
+119,Manzana,Bebidas,Sur,71,2025-11-16 12:11:47.153847,8
+120,Leche,Enlatados,Este,111,2025-11-25 12:11:47.153850,17
+121,Yogur,Bebidas,Oeste,183,2025-11-18 12:11:47.153853,10
+122,Jugo,Lácteos,Norte,148,2025-11-12 12:11:47.153856,4
+123,Manzana,Frutas y Verduras,Norte,17,2025-11-25 12:11:47.153860,17
+124,Tomate en lata,Frutas y Verduras,Este,106,2025-11-26 12:11:47.153863,18
+125,Leche,Panificados,Este,126,2025-11-16 12:11:47.153867,8
+126,Pan,Limpieza,Sur,73,2025-11-24 12:11:47.153870,16
+127,Manzana,Panificados,Este,30,2025-11-20 12:11:47.153873,12
+128,Pan,Panificados,Sur,124,2025-11-12 12:11:47.153876,4
+129,Jugo,Limpieza,Oeste,94,2025-11-22 12:11:47.153879,14
+130,Pan,Enlatados,Este,29,2025-11-09 12:11:47.153883,1
+131,Jugo,Lácteos,Norte,17,2025-11-23 12:11:47.153886,15
+132,Leche,Frutas y Verduras,Norte,67,2025-11-10 12:11:47.153889,2
+133,Jabón,Panificados,Este,55,2025-11-15 12:11:47.153912,7
+134,Jugo,Limpieza,Sur,40,2025-11-15 12:11:47.153916,7
+135,Fideos,Bebidas,Norte,102,2025-11-10 12:11:47.153919,2
+136,Yogur,Panificados,Sur,18,2025-11-23 12:11:47.153922,15
+137,Yogur,Frutas y Verduras,Este,24,2025-11-27 12:11:47.153925,19
+138,Arroz,Lácteos,Este,103,2025-11-21 12:11:47.153928,13
+139,Yogur,Panificados,Norte,163,2025-11-24 12:11:47.153931,16
+140,Arroz,Panificados,Este,147,2025-11-16 12:11:47.153934,8
+141,Yogur,Enlatados,Oeste,38,2025-11-20 12:11:47.153937,12
+142,Jugo,Limpieza,Oeste,89,2025-11-26 12:11:47.153940,18
+143,Fideos,Bebidas,Norte,45,2025-11-17 12:11:47.153943,9
+144,Jabón,Bebidas,Oeste,93,2025-11-15 12:11:47.153946,7
+145,Pan,Lácteos,Sur,118,2025-11-27 12:11:47.153949,19
+146,Tomate en lata,Frutas y Verduras,Norte,127,2025-11-23 12:11:47.153952,15
+147,Yogur,Lácteos,Norte,46,2025-11-08 12:11:47.153955,0
+148,Jabón,Panificados,Sur,95,2025-11-10 12:11:47.153959,2
+149,Jabón,Panificados,Oeste,80,2025-11-23 12:11:47.153962,15
+150,Jugo,Bebidas,Oeste,160,2025-11-19 12:11:47.153966,11
+151,Leche,Frutas y Verduras,Oeste,178,2025-11-27 12:11:47.153969,19
+152,Leche,Limpieza,Norte,102,2025-11-12 12:11:47.153971,4
+153,Yogur,Frutas y Verduras,Norte,89,2025-11-10 12:11:47.153997,2
+154,Tomate en lata,Panificados,Oeste,111,2025-11-09 12:11:47.154000,1
+155,Yogur,Limpieza,Este,165,2025-11-09 12:11:47.154004,1
+156,Yogur,Frutas y Verduras,Oeste,185,2025-11-13 12:11:47.154007,5
+157,Arroz,Frutas y Verduras,Sur,175,2025-11-26 12:11:47.154011,18
+158,Fideos,Limpieza,Norte,168,2025-11-25 12:11:47.154014,17
+159,Fideos,Panificados,Sur,23,2025-11-27 12:11:47.154017,19
+160,Tomate en lata,Frutas y Verduras,Sur,126,2025-11-19 12:11:47.154021,11
+161,Arroz,Limpieza,Norte,82,2025-11-19 12:11:47.154024,11
+162,Jabón,Enlatados,Este,100,2025-11-18 12:11:47.154027,10
+163,Arroz,Enlatados,Oeste,99,2025-11-25 12:11:47.154031,17
+164,Yogur,Panificados,Sur,38,2025-11-11 12:11:47.154034,3
+165,Leche,Limpieza,Norte,188,2025-11-25 12:11:47.154038,17
+166,Manzana,Enlatados,Sur,58,2025-11-15 12:11:47.154041,7
+167,Tomate en lata,Limpieza,Oeste,180,2025-11-08 12:11:47.154044,0
+168,Jabón,Frutas y Verduras,Este,81,2025-11-15 12:11:47.154048,7
+169,Jugo,Panificados,Este,142,2025-11-24 12:11:47.154051,16
+170,Manzana,Enlatados,Este,51,2025-11-21 12:11:47.154055,13
+171,Manzana,Frutas y Verduras,Norte,144,2025-11-18 12:11:47.154077,10
+172,Arroz,Lácteos,Norte,51,2025-11-14 12:11:47.154081,6
+173,Pan,Lácteos,Este,173,2025-11-22 12:11:47.154084,14
+174,Manzana,Panificados,Oeste,114,2025-11-20 12:11:47.154089,12
+175,Yogur,Enlatados,Oeste,36,2025-11-25 12:11:47.154092,17
+176,Detergente,Enlatados,Norte,67,2025-11-12 12:11:47.154095,4
+177,Leche,Enlatados,Este,55,2025-11-17 12:11:47.154099,9
+178,Leche,Limpieza,Oeste,75,2025-11-16 12:11:47.154102,8
+179,Detergente,Frutas y Verduras,Oeste,34,2025-11-21 12:11:47.154106,13
+180,Fideos,Enlatados,Oeste,82,2025-11-08 12:11:47.154115,0
+181,Yogur,Frutas y Verduras,Norte,126,2025-11-15 12:11:47.154119,7
+182,Jugo,Panificados,Este,164,2025-11-18 12:11:47.154122,10
+183,Manzana,Enlatados,Sur,138,2025-11-27 12:11:47.154125,19
+184,Fideos,Panificados,Este,96,2025-11-11 12:11:47.154128,3
+185,Yogur,Enlatados,Este,83,2025-11-20 12:11:47.154131,12
+186,Arroz,Lácteos,Norte,179,2025-11-23 12:11:47.154134,15
+187,Leche,Bebidas,Oeste,189,2025-11-27 12:11:47.154155,19
+188,Fideos,Panificados,Oeste,162,2025-11-20 12:11:47.154159,12
+189,Tomate en lata,Enlatados,Norte,191,2025-11-26 12:11:47.154162,18
+190,Manzana,Bebidas,Norte,134,2025-11-26 12:11:47.154165,18
+191,Manzana,Panificados,Norte,76,2025-11-26 12:11:47.154168,18
+192,Jugo,Limpieza,Norte,15,2025-11-09 12:11:47.154171,1
+193,Pan,Enlatados,Norte,134,2025-11-19 12:11:47.154175,11
+194,Tomate en lata,Limpieza,Sur,67,2025-11-13 12:11:47.154178,5
+195,Manzana,Lácteos,Este,79,2025-11-23 12:11:47.154181,15
+196,Jabón,Enlatados,Este,62,2025-11-20 12:11:47.154185,12
+197,Tomate en lata,Lácteos,Este,75,2025-11-12 12:11:47.154188,4
+198,Manzana,Bebidas,Oeste,67,2025-11-26 12:11:47.154191,18
+199,Detergente,Panificados,Sur,91,2025-11-19 12:11:47.154194,11
+200,Tomate en lata,Frutas y Verduras,Este,96,2025-11-26 12:11:47.154197,18
+201,Yogur,Lácteos,Oeste,11,2025-11-14 12:11:47.154201,6
+202,Tomate en lata,Frutas y Verduras,Sur,159,2025-11-08 12:11:47.154205,0
+203,Jugo,Frutas y Verduras,Sur,46,2025-11-10 12:11:47.154208,2
+204,Arroz,Panificados,Oeste,157,2025-11-21 12:11:47.154212,13
+205,Arroz,Bebidas,Sur,112,2025-11-18 12:11:47.154214,10
+206,Arroz,Panificados,Oeste,33,2025-11-11 12:11:47.154237,3
+207,Yogur,Enlatados,Este,121,2025-11-12 12:11:47.154241,4
+208,Fideos,Lácteos,Oeste,74,2025-11-14 12:11:47.154244,6
+209,Arroz,Frutas y Verduras,Sur,138,2025-11-13 12:11:47.154247,5
+210,Leche,Panificados,Este,126,2025-11-25 12:11:47.154249,17
+211,Yogur,Panificados,Este,125,2025-11-11 12:11:47.154252,3
+212,Fideos,Panificados,Norte,114,2025-11-20 12:11:47.154255,12
+213,Leche,Lácteos,Norte,12,2025-11-10 12:11:47.154258,2
+214,Leche,Bebidas,Sur,55,2025-11-13 12:11:47.154261,5
+215,Leche,Panificados,Oeste,64,2025-11-27 12:11:47.154264,19
+216,Jabón,Lácteos,Oeste,84,2025-11-26 12:11:47.154267,18
+217,Jugo,Frutas y Verduras,Sur,54,2025-11-23 12:11:47.154269,15
+218,Jugo,Enlatados,Este,163,2025-11-25 12:11:47.154273,17
+219,Yogur,Limpieza,Sur,86,2025-11-23 12:11:47.154275,15
+220,Leche,Lácteos,Sur,33,2025-11-15 12:11:47.154279,7
+221,Detergente,Limpieza,Este,44,2025-11-12 12:11:47.154282,4
+222,Tomate en lata,Panificados,Oeste,33,2025-11-19 12:11:47.154285,11
+223,Fideos,Panificados,Sur,37,2025-11-27 12:11:47.154288,19
+224,Jugo,Lácteos,Oeste,25,2025-11-12 12:11:47.154291,4
+225,Arroz,Limpieza,Sur,68,2025-11-15 12:11:47.154294,7
+226,Yogur,Panificados,Este,191,2025-11-10 12:11:47.154297,2
+227,Fideos,Frutas y Verduras,Este,153,2025-11-08 12:11:47.154321,0
+228,Yogur,Bebidas,Norte,24,2025-11-22 12:11:47.154325,14
+229,Detergente,Bebidas,Este,20,2025-11-15 12:11:47.154328,7
+230,Jabón,Panificados,Norte,88,2025-11-18 12:11:47.154331,10
+231,Jabón,Limpieza,Sur,124,2025-11-13 12:11:47.154334,5
+232,Leche,Enlatados,Oeste,77,2025-11-23 12:11:47.154338,15
+233,Jabón,Panificados,Este,52,2025-11-27 12:11:47.154341,19
+234,Yogur,Enlatados,Este,78,2025-11-17 12:11:47.154346,9
+235,Arroz,Enlatados,Este,150,2025-11-26 12:11:47.154349,18
+236,Leche,Limpieza,Sur,147,2025-11-21 12:11:47.154352,13
+237,Manzana,Enlatados,Norte,84,2025-11-27 12:11:47.154355,19
+238,Fideos,Frutas y Verduras,Sur,112,2025-11-18 12:11:47.154358,10
+239,Detergente,Limpieza,Oeste,50,2025-11-12 12:11:47.154361,4
+240,Leche,Panificados,Sur,187,2025-11-16 12:11:47.154364,8
+241,Yogur,Frutas y Verduras,Oeste,68,2025-11-12 12:11:47.154367,4
+242,Fideos,Lácteos,Este,48,2025-11-10 12:11:47.154370,2
+243,Arroz,Bebidas,Oeste,12,2025-11-11 12:11:47.154373,3
+244,Pan,Panificados,Oeste,16,2025-11-22 12:11:47.154376,14
+245,Detergente,Panificados,Norte,58,2025-11-13 12:11:47.154379,5
+246,Yogur,Panificados,Oeste,35,2025-11-14 12:11:47.154394,6
+247,Detergente,Frutas y Verduras,Oeste,170,2025-11-22 12:11:47.154397,14
+248,Jugo,Lácteos,Sur,110,2025-11-16 12:11:47.154401,8
+249,Pan,Limpieza,Este,185,2025-11-14 12:11:47.154404,6
+250,Fideos,Lácteos,Sur,88,2025-11-22 12:11:47.154407,14
+251,Jabón,Frutas y Verduras,Sur,11,2025-11-21 12:11:47.154410,13
+252,Yogur,Panificados,Este,136,2025-11-15 12:11:47.154414,7
+253,Detergente,Bebidas,Este,169,2025-11-13 12:11:47.154417,5
+254,Fideos,Panificados,Oeste,141,2025-11-16 12:11:47.154420,8
+255,Jabón,Limpieza,Oeste,29,2025-11-23 12:11:47.154424,15
+256,Arroz,Enlatados,Norte,126,2025-11-18 12:11:47.154427,10
+257,Arroz,Bebidas,Sur,173,2025-11-15 12:11:47.154430,7
+258,Detergente,Panificados,Este,41,2025-11-19 12:11:47.154433,11
+259,Leche,Bebidas,Oeste,37,2025-11-14 12:11:47.154437,6
+260,Jugo,Enlatados,Este,86,2025-11-25 12:11:47.154440,17
+261,Leche,Lácteos,Oeste,10,2025-11-16 12:11:47.154443,8
+262,Jugo,Frutas y Verduras,Norte,197,2025-11-09 12:11:47.154447,1
+263,Yogur,Panificados,Norte,65,2025-11-11 12:11:47.154450,3
+264,Manzana,Limpieza,Este,44,2025-11-08 12:11:47.154454,0
+265,Detergente,Lácteos,Norte,121,2025-11-16 12:11:47.154464,8
+266,Tomate en lata,Panificados,Este,39,2025-11-20 12:11:47.154467,12
+267,Detergente,Lácteos,Oeste,63,2025-11-10 12:11:47.154470,2
+268,Pan,Limpieza,Sur,45,2025-11-13 12:11:47.154473,5
+269,Jabón,Panificados,Norte,192,2025-11-26 12:11:47.154476,18
+270,Pan,Enlatados,Oeste,89,2025-11-08 12:11:47.154480,0
+271,Arroz,Enlatados,Sur,67,2025-11-11 12:11:47.154483,3
+272,Jugo,Limpieza,Sur,92,2025-11-24 12:11:47.154486,16
+273,Jabón,Bebidas,Sur,74,2025-11-24 12:11:47.154489,16
+274,Arroz,Limpieza,Oeste,78,2025-11-19 12:11:47.154492,11
+275,Jabón,Bebidas,Oeste,137,2025-11-13 12:11:47.154495,5
+276,Leche,Panificados,Este,60,2025-11-18 12:11:47.154498,10
+277,Arroz,Bebidas,Sur,31,2025-11-21 12:11:47.154501,13
+278,Leche,Panificados,Sur,116,2025-11-25 12:11:47.154504,17
+279,Leche,Panificados,Sur,118,2025-11-18 12:11:47.154508,10
+280,Jabón,Frutas y Verduras,Este,125,2025-11-25 12:11:47.154511,17
+281,Fideos,Panificados,Sur,110,2025-11-18 12:11:47.154514,10
+282,Pan,Bebidas,Oeste,190,2025-11-15 12:11:47.154518,7
+283,Arroz,Frutas y Verduras,Sur,109,2025-11-18 12:11:47.154521,10
+284,Tomate en lata,Frutas y Verduras,Norte,173,2025-11-16 12:11:47.154524,8
+285,Fideos,Panificados,Oeste,77,2025-11-21 12:11:47.154529,13
+286,Pan,Limpieza,Este,45,2025-11-22 12:11:47.154532,14
+287,Arroz,Limpieza,Sur,189,2025-11-25 12:11:47.154536,17
+288,Jugo,Enlatados,Norte,190,2025-11-12 12:11:47.154539,4
+289,Pan,Frutas y Verduras,Este,187,2025-11-21 12:11:47.154542,13
+290,Tomate en lata,Panificados,Este,178,2025-11-15 12:11:47.154545,7
+291,Detergente,Limpieza,Oeste,155,2025-11-26 12:11:47.154549,18
+292,Yogur,Panificados,Este,31,2025-11-15 12:11:47.154552,7
+293,Leche,Panificados,Este,75,2025-11-17 12:11:47.154555,9
+294,Yogur,Frutas y Verduras,Este,30,2025-11-09 12:11:47.154559,1
+295,Fideos,Enlatados,Este,109,2025-11-22 12:11:47.154562,14
+296,Detergente,Frutas y Verduras,Sur,137,2025-11-25 12:11:47.154565,17
+297,Leche,Lácteos,Sur,53,2025-11-20 12:11:47.154568,12
+298,Arroz,Limpieza,Sur,112,2025-11-10 12:11:47.154571,2
+299,Fideos,Limpieza,Sur,56,2025-11-26 12:11:47.154575,18
+300,Tomate en lata,Limpieza,Norte,48,2025-11-20 12:11:47.154578,12
+301,Jabón,Bebidas,Sur,38,2025-11-08 12:11:47.154581,0
+302,Arroz,Panificados,Este,63,2025-11-26 12:11:47.154583,18
+303,Pan,Frutas y Verduras,Sur,99,2025-11-19 12:11:47.154586,11
+304,Jabón,Limpieza,Sur,94,2025-11-27 12:11:47.154590,19
+305,Fideos,Lácteos,Oeste,26,2025-11-27 12:11:47.154593,19
+306,Pan,Limpieza,Este,89,2025-11-19 12:11:47.154596,11
+307,Tomate en lata,Enlatados,Sur,197,2025-11-26 12:11:47.154598,18
+308,Yogur,Panificados,Sur,168,2025-11-26 12:11:47.154602,18
+309,Pan,Panificados,Sur,82,2025-11-25 12:11:47.154604,17
+310,Yogur,Frutas y Verduras,Norte,58,2025-11-12 12:11:47.154609,4
+311,Leche,Bebidas,Sur,110,2025-11-25 12:11:47.154612,17
+312,Jugo,Frutas y Verduras,Oeste,11,2025-11-21 12:11:47.154615,13
+313,Manzana,Limpieza,Este,185,2025-11-10 12:11:47.154618,2
+314,Arroz,Enlatados,Este,151,2025-11-16 12:11:47.154621,8
+315,Manzana,Lácteos,Sur,68,2025-11-19 12:11:47.154624,11
+316,Leche,Frutas y Verduras,Sur,106,2025-11-16 12:11:47.154627,8
+317,Pan,Bebidas,Sur,108,2025-11-22 12:11:47.154644,14
+318,Leche,Frutas y Verduras,Este,195,2025-11-26 12:11:47.154647,18
+319,Manzana,Panificados,Este,112,2025-11-14 12:11:47.154650,6
+320,Manzana,Limpieza,Norte,195,2025-11-15 12:11:47.154653,7
+321,Arroz,Limpieza,Oeste,188,2025-11-20 12:11:47.154656,12
+322,Jabón,Limpieza,Norte,11,2025-11-24 12:11:47.154659,16
+323,Detergente,Limpieza,Oeste,50,2025-11-19 12:11:47.154663,11
+324,Leche,Limpieza,Norte,132,2025-11-18 12:11:47.154666,10
+325,Jugo,Limpieza,Este,91,2025-11-27 12:11:47.154669,19
+326,Detergente,Lácteos,Norte,153,2025-11-27 12:11:47.154672,19
+327,Leche,Bebidas,Oeste,141,2025-11-09 12:11:47.154675,1
+328,Tomate en lata,Limpieza,Sur,149,2025-11-17 12:11:47.154686,9
+329,Fideos,Bebidas,Oeste,38,2025-11-22 12:11:47.154689,14
+330,Fideos,Enlatados,Sur,144,2025-11-19 12:11:47.154692,11
+331,Manzana,Limpieza,Este,23,2025-11-14 12:11:47.154695,6
+332,Fideos,Frutas y Verduras,Oeste,21,2025-11-11 12:11:47.154698,3
+333,Yogur,Limpieza,Norte,108,2025-11-17 12:11:47.154701,9
+334,Jugo,Panificados,Oeste,142,2025-11-24 12:11:47.154704,16
+335,Fideos,Lácteos,Sur,90,2025-11-17 12:11:47.154707,9
+336,Pan,Frutas y Verduras,Este,115,2025-11-09 12:11:47.154710,1
+337,Yogur,Frutas y Verduras,Norte,41,2025-11-20 12:11:47.154713,12
+338,Detergente,Panificados,Oeste,83,2025-11-22 12:11:47.154716,14
+339,Yogur,Limpieza,Sur,180,2025-11-19 12:11:47.154719,11
+340,Leche,Lácteos,Norte,90,2025-11-17 12:11:47.154723,9
+341,Manzana,Frutas y Verduras,Este,78,2025-11-22 12:11:47.154726,14
+342,Arroz,Lácteos,Norte,54,2025-11-24 12:11:47.154729,16
+343,Arroz,Frutas y Verduras,Este,115,2025-11-14 12:11:47.154733,6
+344,Tomate en lata,Limpieza,Norte,146,2025-11-19 12:11:47.154736,11
+345,Jugo,Enlatados,Oeste,186,2025-11-17 12:11:47.154740,9
+346,Leche,Frutas y Verduras,Sur,170,2025-11-13 12:11:47.154743,5
+347,Arroz,Enlatados,Oeste,109,2025-11-15 12:11:47.154746,7
+348,Manzana,Frutas y Verduras,Oeste,155,2025-11-19 12:11:47.154750,11
+349,Detergente,Bebidas,Este,18,2025-11-26 12:11:47.154753,18
+350,Arroz,Limpieza,Este,71,2025-11-13 12:11:47.154763,5
+351,Pan,Panificados,Este,194,2025-11-11 12:11:47.154767,3
+352,Yogur,Enlatados,Oeste,38,2025-11-19 12:11:47.154770,11
+353,Arroz,Panificados,Norte,134,2025-11-18 12:11:47.154773,10
+354,Leche,Limpieza,Norte,123,2025-11-11 12:11:47.154776,3
+355,Fideos,Panificados,Oeste,162,2025-11-12 12:11:47.154779,4
+356,Fideos,Limpieza,Oeste,152,2025-11-11 12:11:47.154783,3
+357,Detergente,Panificados,Sur,143,2025-11-19 12:11:47.154786,11
+358,Fideos,Enlatados,Este,129,2025-11-24 12:11:47.154788,16
+359,Detergente,Bebidas,Este,179,2025-11-23 12:11:47.154791,15
+360,Leche,Panificados,Oeste,166,2025-11-21 12:11:47.154794,13
+361,Jugo,Enlatados,Oeste,88,2025-11-17 12:11:47.154798,9
+362,Fideos,Frutas y Verduras,Norte,102,2025-11-10 12:11:47.154801,2
+363,Tomate en lata,Limpieza,Oeste,13,2025-11-11 12:11:47.154804,3
+364,Manzana,Lácteos,Norte,91,2025-11-16 12:11:47.154807,8
+365,Yogur,Lácteos,Oeste,194,2025-11-20 12:11:47.154810,12
+366,Fideos,Limpieza,Sur,186,2025-11-09 12:11:47.154813,1
+367,Detergente,Bebidas,Sur,181,2025-11-11 12:11:47.154816,3
+368,Leche,Panificados,Norte,84,2025-11-16 12:11:47.154818,8
+369,Fideos,Bebidas,Este,23,2025-11-21 12:11:47.154821,13
+370,Arroz,Lácteos,Sur,140,2025-11-25 12:11:47.154824,17
+371,Fideos,Enlatados,Norte,123,2025-11-27 12:11:47.154827,19
+372,Detergente,Limpieza,Oeste,71,2025-11-15 12:11:47.154830,7
+373,Pan,Limpieza,Oeste,115,2025-11-17 12:11:47.154833,9
+374,Pan,Bebidas,Norte,73,2025-11-15 12:11:47.154836,7
+375,Fideos,Enlatados,Este,111,2025-11-17 12:11:47.154839,9
+376,Yogur,Bebidas,Norte,182,2025-11-10 12:11:47.154841,2
+377,Leche,Panificados,Norte,115,2025-11-11 12:11:47.154844,3
+378,Tomate en lata,Frutas y Verduras,Sur,195,2025-11-24 12:11:47.154847,16
+379,Tomate en lata,Enlatados,Norte,29,2025-11-20 12:11:47.154849,12
+380,Fideos,Frutas y Verduras,Norte,67,2025-11-19 12:11:47.154853,11
+381,Fideos,Panificados,Oeste,121,2025-11-20 12:11:47.154856,12
+382,Pan,Frutas y Verduras,Sur,66,2025-11-19 12:11:47.154859,11
+383,Detergente,Lácteos,Oeste,128,2025-11-18 12:11:47.154861,10
+384,Yogur,Frutas y Verduras,Oeste,106,2025-11-27 12:11:47.154864,19
+385,Fideos,Panificados,Este,101,2025-11-20 12:11:47.154867,12
+386,Tomate en lata,Frutas y Verduras,Este,61,2025-11-20 12:11:47.154869,12
+387,Leche,Limpieza,Sur,46,2025-11-27 12:11:47.154872,19
+388,Jugo,Bebidas,Sur,17,2025-11-10 12:11:47.154875,2
+389,Arroz,Lácteos,Este,53,2025-11-26 12:11:47.154877,18
+390,Fideos,Limpieza,Este,107,2025-11-16 12:11:47.154880,8
+391,Detergente,Limpieza,Este,142,2025-11-14 12:11:47.154883,6
+392,Fideos,Panificados,Este,127,2025-11-26 12:11:47.154886,18
+393,Detergente,Bebidas,Este,78,2025-11-13 12:11:47.154889,5
+394,Yogur,Bebidas,Oeste,168,2025-11-26 12:11:47.154898,18
+395,Jugo,Enlatados,Sur,54,2025-11-26 12:11:47.154900,18
+396,Manzana,Lácteos,Oeste,146,2025-11-20 12:11:47.154903,12
+397,Leche,Panificados,Oeste,41,2025-11-22 12:11:47.154906,14
+398,Leche,Lácteos,Norte,42,2025-11-12 12:11:47.154909,4
+399,Detergente,Enlatados,Oeste,135,2025-11-22 12:11:47.154912,14
+400,Pan,Frutas y Verduras,Este,76,2025-11-11 12:11:47.154915,3
+401,Detergente,Limpieza,Este,39,2025-11-26 12:11:47.154918,18
+402,Pan,Lácteos,Norte,123,2025-11-27 12:11:47.154922,19
+403,Jabón,Limpieza,Norte,38,2025-11-20 12:11:47.154925,12
+404,Tomate en lata,Panificados,Norte,140,2025-11-10 12:11:47.154928,2
+405,Leche,Frutas y Verduras,Norte,194,2025-11-25 12:11:47.154931,17
+406,Yogur,Panificados,Norte,39,2025-11-10 12:11:47.154934,2
+407,Detergente,Frutas y Verduras,Oeste,146,2025-11-21 12:11:47.154937,13
+408,Yogur,Frutas y Verduras,Norte,163,2025-11-15 12:11:47.154940,7
+409,Jugo,Limpieza,Oeste,139,2025-11-21 12:11:47.154943,13
+410,Yogur,Panificados,Sur,71,2025-11-11 12:11:47.154946,3
+411,Fideos,Panificados,Norte,12,2025-11-23 12:11:47.154949,15
+412,Tomate en lata,Lácteos,Norte,183,2025-11-11 12:11:47.154951,3
+413,Fideos,Panificados,Oeste,77,2025-11-23 12:11:47.154954,15
+414,Arroz,Lácteos,Sur,34,2025-11-10 12:11:47.154957,2
+415,Detergente,Bebidas,Oeste,188,2025-11-19 12:11:47.155069,11
+416,Leche,Bebidas,Oeste,150,2025-11-11 12:11:47.155073,3
+417,Detergente,Bebidas,Norte,53,2025-11-16 12:11:47.155076,8
+418,Tomate en lata,Enlatados,Este,172,2025-11-13 12:11:47.155079,5
+419,Manzana,Panificados,Este,64,2025-11-08 12:11:47.155082,0
+420,Manzana,Enlatados,Oeste,146,2025-11-13 12:11:47.155085,5
+421,Arroz,Panificados,Norte,139,2025-11-19 12:11:47.155088,11
+422,Tomate en lata,Lácteos,Sur,198,2025-11-09 12:11:47.155091,1
+423,Jabón,Enlatados,Este,50,2025-11-23 12:11:47.155093,15
+424,Jabón,Enlatados,Sur,181,2025-11-25 12:11:47.155096,17
+425,Jabón,Enlatados,Este,73,2025-11-24 12:11:47.155099,16
+426,Leche,Frutas y Verduras,Norte,40,2025-11-21 12:11:47.155109,13
+427,Leche,Lácteos,Oeste,56,2025-11-15 12:11:47.155113,7
+428,Jabón,Bebidas,Sur,139,2025-11-27 12:11:47.155116,19
+429,Manzana,Lácteos,Sur,105,2025-11-22 12:11:47.155119,14
+430,Tomate en lata,Frutas y Verduras,Oeste,86,2025-11-14 12:11:47.155144,6
+431,Yogur,Panificados,Sur,119,2025-11-08 12:11:47.155147,0
+432,Tomate en lata,Lácteos,Este,78,2025-11-11 12:11:47.155150,3
+433,Jabón,Enlatados,Oeste,67,2025-11-25 12:11:47.155153,17
+434,Tomate en lata,Bebidas,Este,115,2025-11-12 12:11:47.155156,4
+435,Jugo,Bebidas,Este,53,2025-11-26 12:11:47.155159,18
+436,Leche,Panificados,Norte,83,2025-11-16 12:11:47.155174,8
+437,Leche,Lácteos,Este,65,2025-11-09 12:11:47.155178,1
+438,Manzana,Frutas y Verduras,Norte,180,2025-11-11 12:11:47.155181,3
+439,Yogur,Panificados,Sur,136,2025-11-10 12:11:47.155183,2
+440,Jabón,Lácteos,Sur,171,2025-11-24 12:11:47.155186,16
+441,Detergente,Limpieza,Norte,39,2025-11-15 12:11:47.155189,7
+442,Manzana,Bebidas,Este,80,2025-11-21 12:11:47.155192,13
+443,Manzana,Frutas y Verduras,Oeste,127,2025-11-24 12:11:47.155195,16
+444,Yogur,Enlatados,Oeste,64,2025-11-12 12:11:47.155198,4
+445,Fideos,Frutas y Verduras,Norte,76,2025-11-25 12:11:47.155201,17
+446,Jabón,Enlatados,Sur,150,2025-11-08 12:11:47.155203,0
+447,Detergente,Frutas y Verduras,Sur,12,2025-11-11 12:11:47.155206,3
+448,Leche,Bebidas,Oeste,35,2025-11-12 12:11:47.155209,4
+449,Yogur,Enlatados,Norte,66,2025-11-14 12:11:47.155211,6
+450,Detergente,Lácteos,Oeste,135,2025-11-21 12:11:47.155214,13
+451,Jugo,Enlatados,Este,161,2025-11-08 12:11:47.155217,0
+452,Manzana,Panificados,Este,62,2025-11-17 12:11:47.155220,9
+453,Yogur,Lácteos,Norte,52,2025-11-22 12:11:47.155223,14
+454,Leche,Panificados,Norte,197,2025-11-25 12:11:47.155226,17
+455,Tomate en lata,Frutas y Verduras,Este,195,2025-11-25 12:11:47.155229,17
+456,Leche,Lácteos,Sur,58,2025-11-11 12:11:47.155232,3
+457,Jugo,Frutas y Verduras,Norte,51,2025-11-20 12:11:47.155234,12
+458,Yogur,Limpieza,Este,20,2025-11-09 12:11:47.155240,1
+459,Jugo,Frutas y Verduras,Este,112,2025-11-12 12:11:47.155243,4
+460,Jabón,Frutas y Verduras,Sur,107,2025-11-16 12:11:47.155247,8
+461,Jabón,Panificados,Sur,155,2025-11-12 12:11:47.155250,4
+462,Tomate en lata,Enlatados,Sur,94,2025-11-11 12:11:47.155253,3
+463,Manzana,Limpieza,Sur,109,2025-11-09 12:11:47.155256,1
+464,Fideos,Frutas y Verduras,Oeste,113,2025-11-16 12:11:47.155259,8
+465,Pan,Frutas y Verduras,Sur,189,2025-11-25 12:11:47.155262,17
+466,Detergente,Limpieza,Oeste,55,2025-11-10 12:11:47.155265,2
+467,Jugo,Limpieza,Norte,53,2025-11-26 12:11:47.155268,18
+468,Detergente,Lácteos,Este,31,2025-11-25 12:11:47.155270,17
+469,Tomate en lata,Panificados,Oeste,190,2025-11-16 12:11:47.155273,8
+470,Detergente,Limpieza,Norte,196,2025-11-10 12:11:47.155276,2
+471,Detergente,Limpieza,Norte,123,2025-11-12 12:11:47.155279,4
+472,Leche,Bebidas,Oeste,134,2025-11-11 12:11:47.155282,3
+473,Yogur,Enlatados,Norte,133,2025-11-14 12:11:47.155285,6
+474,Manzana,Limpieza,Norte,39,2025-11-09 12:11:47.155288,1
+475,Pan,Panificados,Oeste,17,2025-11-17 12:11:47.155291,9
+476,Yogur,Enlatados,Norte,107,2025-11-27 12:11:47.155293,19
+477,Leche,Enlatados,Sur,66,2025-11-23 12:11:47.155296,15
+478,Detergente,Frutas y Verduras,Sur,120,2025-11-09 12:11:47.155299,1
+479,Pan,Frutas y Verduras,Este,82,2025-11-14 12:11:47.155324,6
+480,Leche,Frutas y Verduras,Norte,124,2025-11-26 12:11:47.155327,18
+481,Leche,Frutas y Verduras,Este,29,2025-11-19 12:11:47.155331,11
+482,Leche,Bebidas,Sur,34,2025-11-20 12:11:47.155333,12
+483,Jabón,Limpieza,Sur,28,2025-11-15 12:11:47.155336,7
+484,Pan,Frutas y Verduras,Sur,14,2025-11-10 12:11:47.155339,2
+485,Leche,Lácteos,Norte,84,2025-11-23 12:11:47.155342,15
+486,Fideos,Frutas y Verduras,Norte,137,2025-11-12 12:11:47.155345,4
+487,Detergente,Limpieza,Sur,81,2025-11-26 12:11:47.155348,18
+488,Pan,Frutas y Verduras,Este,164,2025-11-22 12:11:47.155350,14
+489,Jabón,Bebidas,Este,49,2025-11-21 12:11:47.155353,13
+490,Jugo,Panificados,Oeste,35,2025-11-27 12:11:47.155356,19
+491,Jugo,Panificados,Sur,36,2025-11-13 12:11:47.155359,5
+492,Manzana,Limpieza,Este,199,2025-11-14 12:11:47.155362,6
+493,Arroz,Panificados,Sur,92,2025-11-09 12:11:47.155365,1
+494,Fideos,Panificados,Este,137,2025-11-12 12:11:47.155367,4
+495,Jugo,Lácteos,Oeste,187,2025-11-21 12:11:47.155451,13
+496,Jabón,Limpieza,Oeste,179,2025-11-11 12:11:47.155457,3
+497,Arroz,Limpieza,Sur,166,2025-11-11 12:11:47.155460,3
+498,Leche,Panificados,Este,176,2025-11-09 12:11:47.155463,1
+499,Leche,Panificados,Norte,197,2025-11-15 12:11:47.155466,7
+500,Tomate en lata,Panificados,Oeste,178,2025-11-14 12:11:47.155469,6

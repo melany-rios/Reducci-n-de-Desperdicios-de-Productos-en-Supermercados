@@ -1,8 +1,21 @@
-id_proveedor,nombre,tiempo_entrega_dias,categoria
-1,Proveedor Lácteos,7,Lácteos
-2,Proveedor Panificados,3,Panificados
-3,Proveedor Carnes,7,Carnes
-4,Proveedor Frutas y Verduras,2,Frutas y Verduras
-5,Proveedor Enlatados,5,Enlatados
-6,Proveedor Secos,2,Secos
-7,Proveedor Bebidas,4,Bebidas
+id_proveedor,nombre,categoria,tiempo_entrega_dias
+1,Bueno y Monreal S.L.,Limpieza,2
+2,Consuela Gras Mariscal S.Com.,Lácteos,9
+3,Supermercados Riba y asociados S.Coop.,Limpieza,5
+4,Promociones VQ S.L.L.,Frutas y Verduras,4
+5,Infraestructuras Internacionales S.A.,Bebidas,9
+6,Compañía del Levante S.L.N.E,Bebidas,2
+7,Compañía Tamarit y asociados S.L.N.E,Frutas y Verduras,3
+8,Soluciones TWW S.Com.,Lácteos,5
+9,Consultoría Llobet S.A.,Enlatados,5
+10,Hotel Valcárcel y asociados S.L.N.E,Frutas y Verduras,7
+11,Grupo Roldán S.L.L.,Lácteos,2
+12,Comercializadora ANX S.L.,Panificados,6
+13,Logística Pedro y asociados S.Com.,Bebidas,5
+14,Supermercados TYA S.Coop.,Lácteos,4
+15,Tadeo Nicolás Pereira S.A.,Limpieza,5
+16,Desarrollo Pereira y asociados S.L.L.,Limpieza,7
+17,Amaya Plaza Peña S.A.,Bebidas,3
+18,Fábrica Vargas & Asociados S.L.N.E,Frutas y Verduras,7
+19,Bienvenida Espinosa Bru S.L.L.,Enlatados,5
+20,Soluciones Pavón S.Coop.,Frutas y Verduras,9

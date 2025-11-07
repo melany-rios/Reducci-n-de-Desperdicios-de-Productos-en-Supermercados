@@ -74,7 +74,7 @@ st.markdown("""
 
         /* Texto de botones y encabezados */
         .stButton>button {
-            color: #1f1d1d;
+            color: #000000;
             background-color: #0072B2;
             border-radius: 8px;
             border: none;

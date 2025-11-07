@@ -24,8 +24,8 @@ st.markdown("""
     <style>
         /* Fondo general */
         .stApp {
-            background-color: #f0eec7;
-            color: #1f1d1d;
+            background-color: #434545;
+            color: #ffffff;
         }
 
         /* Encabezados principales */

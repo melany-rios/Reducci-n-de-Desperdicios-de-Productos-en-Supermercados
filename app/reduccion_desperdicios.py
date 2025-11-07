@@ -106,6 +106,7 @@ st.markdown("""
 
         .big-font {
             font-weight: 700
+            font-size: 500
         }
     </style>
 """, unsafe_allow_html=True)

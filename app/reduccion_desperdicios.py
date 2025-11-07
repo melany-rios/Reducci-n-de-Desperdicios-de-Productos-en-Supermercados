@@ -30,7 +30,7 @@ st.markdown("""
 
         /* Encabezados principales */
         h1, h2, h3 {
-            color: #1f1d1d; /* negro adaptado */
+            color: #000000; /* negro adaptado */
             font-weight: 700;
         }
 

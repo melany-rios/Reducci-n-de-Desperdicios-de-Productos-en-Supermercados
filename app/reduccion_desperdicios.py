@@ -15,14 +15,69 @@ st.set_page_config(
     layout="wide",
 )
 
-# Estilo visual general
+# --------------------------------------------------------------
+# 🎨 CONFIGURACIÓN VISUAL PERSONALIZADA
+# --------------------------------------------------------------
+
+# Fondo blanco, texto negro y títulos en color institucional
 st.markdown("""
-<style>
-    .big-font {font-size:28px !important; font-weight:700; color:#2E86C1;}
-    .small-note {font-size:14px; color:#7F8C8D;}
-    div[data-testid="stMetricValue"] {font-size: 28px; color: #2E4053;}
-</style>
+    <style>
+        /* Fondo general */
+        .stApp {
+            background-color: #FFFFFF;
+            color: #000000;
+        }
+
+        /* Encabezados principales */
+        h1, h2, h3 {
+            color: #0072B2; /* Azul institucional */
+            font-weight: 700;
+        }
+
+        /* Tablas */
+        .stDataFrame, .dataframe {
+            background-color: #FFFFFF;
+            color: #000000;
+        }
+
+        /* Sidebar */
+        section[data-testid="stSidebar"] {
+            background-color: #f8f9fa;
+            color: #000000;
+        }
+
+        /* KPI cards */
+        div[data-testid="metric-container"] {
+            background-color: #F4F6F8;
+            border-radius: 12px;
+            padding: 10px;
+            box-shadow: 0px 1px 3px rgba(0,0,0,0.1);
+        }
+
+        /* Texto de botones y encabezados */
+        .stButton>button {
+            color: #FFFFFF;
+            background-color: #0072B2;
+            border-radius: 8px;
+            border: none;
+        }
+        .stButton>button:hover {
+            background-color: #005f91;
+        }
+
+        /* Links y markdown */
+        a {
+            color: #0072B2 !important;
+            text-decoration: none;
+        }
+
+        /* Ajustes para gráficos de Plotly/Altair */
+        .js-plotly-plot, .vega-embed {
+            background-color: #FFFFFF !important;
+        }
+    </style>
 """, unsafe_allow_html=True)
+
 
 # --------------------------------------------------------------
 # 🧩 TÍTULO Y DESCRIPCIÓN

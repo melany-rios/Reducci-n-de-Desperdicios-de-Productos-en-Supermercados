@@ -34,6 +34,12 @@ st.markdown("""
             font-weight: 700;
         }
 
+        h3 {
+            font-size: 28px;
+            color: #1E8449;
+            font-weight: 800;
+        }
+
         /* Tablas */
         .stDataFrame, .dataframe {
             background-color: #1f1d1d;

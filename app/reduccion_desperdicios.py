@@ -111,10 +111,6 @@ st.markdown("""
 # 🧩 TÍTULO Y DESCRIPCIÓN
 # --------------------------------------------------------------
 st.markdown('<p class="big-font">🧃 Sistema de Reducción de Desperdicio de Productos</p>', unsafe_allow_html=True)
-st.write("""
-Proyecto académico desarrollado en el marco de la **Tecnicatura en Ciencia de Datos e Inteligencia Artificial**.
-Este dashboard permite analizar **ventas, inventario, desperdicio y donaciones**, contribuyendo a la eficiencia operativa y la responsabilidad social.
-""")
 
 # --------------------------------------------------------------
 # 📂 CARGA DE DATOS

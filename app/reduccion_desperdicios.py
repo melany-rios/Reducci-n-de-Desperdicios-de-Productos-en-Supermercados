@@ -192,7 +192,6 @@ col2.metric("💰 Valor Total de Ventas", f"${valor_ventas:,.0f}")
 col3.metric("🗑️ Productos Descartados", f"{total_descartes:,}")
 col4.metric("📉 % de Merma", f"{porcentaje_merma:.2f}%")
 col5.metric("🍽️ Tasa de Donación", f"{tasa_donacion:.1f}%")
-
 st.markdown("---")
 
 # --------------------------------------------------------------

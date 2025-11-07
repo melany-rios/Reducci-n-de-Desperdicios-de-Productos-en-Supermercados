@@ -59,7 +59,7 @@ st.markdown("""
         
         /* Títulos de las métricas (por ejemplo, “🛒 Ventas Totales”) */
         div[data-testid="metric-container"] > label {
-            color: #0072B2; /* Azul institucional */
+            color: #000000; /* Azul institucional */
             font-weight: 600;
             font-size: 1.1rem;
         }

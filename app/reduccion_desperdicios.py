@@ -103,6 +103,10 @@ st.markdown("""
         .js-plotly-plot, .vega-embed {
             background-color: #FFFFFF !important;
         }
+
+        .big-font {
+            font-weight: 700
+        }
     </style>
 """, unsafe_allow_html=True)
 

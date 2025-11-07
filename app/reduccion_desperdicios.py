@@ -24,7 +24,7 @@ st.markdown("""
     <style>
         /* Fondo general */
         .stApp {
-            background-color: #81a18a;
+            background-color: #384239;
             color: #FFFFFF;
         }
 

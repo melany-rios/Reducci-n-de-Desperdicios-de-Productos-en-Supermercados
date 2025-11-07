@@ -177,24 +177,31 @@ with tab3:
 # --------------------------------------------------------------
 with tab4:
     st.subheader("🍽️ Registro de Comedores Comunitarios")
-    st.dataframe(comedores[["nombre","direccion","zona","cantidad_donaciones","ultimo_envio"]])
 
-    st.markdown("### 🌍 Ubicación aproximada de comedores")
-    coords = pd.DataFrame({
-        'lat': [-27.7833, -27.7835, -27.7810, -27.7822],
-        'lon': [-64.2667, -64.2700, -64.2500, -64.2633],
-        'nombre': comedores["nombre"]
-    })
-    st.map(coords, zoom=12)
+    if comedores.empty:
+        st.info("ℹ️ No hay registros de comedores disponibles.")
+    else:
+        # 📋 Mostrar tabla de comedores
+        st.dataframe(comedores[["nombre","direccion","zona","cantidad_donaciones","ultimo_envio"]])
 
-    st.markdown("### 📤 Descarga de datos")
-    st.download_button(
-        "📥 Descargar registro de donaciones",
-        comedores.to_csv(index=False).encode('utf-8'),
-        "comedores.csv",
-        "text/csv"
-    )
+        # 🌍 Mapa con coordenadas dinámicas generadas automáticamente
+        st.markdown("### 🌍 Ubicación aproximada de comedores")
+        base_lat, base_lon = -27.7833, -64.2667
+        coords = pd.DataFrame({
+            'nombre': comedores["nombre"],
+            'lat': [base_lat + np.random.uniform(-0.01, 0.01) for _ in range(len(comedores))],
+            'lon': [base_lon + np.random.uniform(-0.01, 0.01) for _ in range(len(comedores))]
+        })
+        st.map(coords, zoom=12)
 
+        # 📤 Botón para descargar el CSV
+        st.markdown("### 📤 Descarga de datos")
+        st.download_button(
+            "📥 Descargar registro de donaciones",
+            comedores.to_csv(index=False).encode('utf-8'),
+            "comedores.csv",
+            "text/csv"
+        )
 # --------------------------------------------------------------
 # TAB 5: CONCLUSIONES
 # --------------------------------------------------------------

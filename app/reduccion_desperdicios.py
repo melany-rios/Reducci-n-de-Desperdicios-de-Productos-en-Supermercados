@@ -24,8 +24,8 @@ st.markdown("""
     <style>
         /* Fondo general */
         .stApp {
-            background-color: #384239;
-            color: #FFFFFF;
+            background-color: #99bf93;
+            color: #2f7524;
         }
 
         /* Encabezados principales */
@@ -36,7 +36,7 @@ st.markdown("""
 
         /* Tablas */
         .stDataFrame, .dataframe {
-            background-color: #FFFFFF;
+            background-color: #193d14;
             color: #000000;
         }
 

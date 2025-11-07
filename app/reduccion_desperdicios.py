@@ -30,7 +30,7 @@ st.markdown("""
 
         /* Encabezados principales */
         h1, h2, h3 {
-            color: #0072B2; /* Azul institucional */
+            color: #1f1d1d; /* negro adaptado */
             font-weight: 700;
         }
 
@@ -56,7 +56,7 @@ st.markdown("""
 
         /* Texto de botones y encabezados */
         .stButton>button {
-            color: #FFFFFF;
+            color: #1f1d1d;
             background-color: #0072B2;
             border-radius: 8px;
             border: none;
@@ -67,7 +67,7 @@ st.markdown("""
 
         /* Links y markdown */
         a {
-            color: #0072B2 !important;
+            color: #1f1d1d !important;
             text-decoration: none;
         }
 

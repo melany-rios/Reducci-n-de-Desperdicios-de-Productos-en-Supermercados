@@ -46,30 +46,40 @@ st.markdown("""
             color: #343d31;
         }
 
-        /* Tarjetas de métricas (KPI) */
+       /* KPI base */
         div[data-testid="metric-container"] {
-            background-color: #FFFFFF; /* Fondo blanco */
-            color: #000000; /* Texto negro */
-            border: 1px solid #E0E0E0;
-            border-radius: 12px;
-            padding: 10px 15px;
+            border-radius: 14px;
+            padding: 12px;
+            color: white;
+            font-weight: bold;
             text-align: center;
-            box-shadow: 0px 2px 5px rgba(0,0,0,0.05);
         }
         
-        /* Títulos de las métricas (por ejemplo, “🛒 Ventas Totales”) */
-        div[data-testid="metric-container"] > label {
-            color: #000000; /* Azul institucional */
-            font-weight: 600;
-            font-size: 1.1rem;
+        /* Primera métrica (ventas) */
+        div[data-testid="metric-container"]:nth-child(1) {
+            background-color: #0072B2; /* Azul */
         }
         
-        /* Valores numéricos grandes */
-        div[data-testid="stMetricValue"] {
-            color: #000000;
-            font-weight: 700;
-            font-size: 1.5rem;
+        /* Segunda métrica (valor total) */
+        div[data-testid="metric-container"]:nth-child(2) {
+            background-color: #009E73; /* Verde */
         }
+        
+        /* Tercera métrica (descartes) */
+        div[data-testid="metric-container"]:nth-child(3) {
+            background-color: #D55E00; /* Naranja/rojo */
+        }
+        
+        /* Cuarta métrica (merma) */
+        div[data-testid="metric-container"]:nth-child(4) {
+            background-color: #E69F00; /* Amarillo */
+        }
+        
+        /* Quinta métrica (donaciones) */
+        div[data-testid="metric-container"]:nth-child(5) {
+            background-color: #56B4E9; /* Celeste */
+        }
+
 
 
         /* Texto de botones y encabezados */

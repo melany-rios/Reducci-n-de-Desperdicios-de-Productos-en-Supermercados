@@ -115,7 +115,7 @@ st.markdown("""
 # --------------------------------------------------------------
 # 🧩 TÍTULO Y DESCRIPCIÓN
 # --------------------------------------------------------------
-st.markdown('<p class="big-font">🧃 Sistema de Reducción de Desperdicio de Productos</p>', unsafe_allow_html=True)
+st.markdown('<p class="big-font">Sistema de Reducción de Desperdicio de Productos</p>', unsafe_allow_html=True)
 
 # --------------------------------------------------------------
 # 📂 CARGA DE DATOS

@@ -213,4 +213,3 @@ with tab5:
     - **Responsabilidad social:** las donaciones contribuyen al impacto positivo en la comunidad.  
     - **Futuro:** integrar modelos predictivos de demanda y recomendaciones automatizadas.  
     """)
-    st.success("✅ Proyecto listo para exposición final y defensa.")

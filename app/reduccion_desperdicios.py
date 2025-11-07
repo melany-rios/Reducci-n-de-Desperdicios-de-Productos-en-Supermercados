@@ -36,7 +36,7 @@ st.markdown("""
 
         h3 {
             font-size: 28px;
-            color: #1E8449;
+            color: #ffffff;
             font-weight: 800;
         }
 

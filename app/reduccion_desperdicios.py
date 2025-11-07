@@ -42,8 +42,8 @@ st.markdown("""
 
         /* Sidebar */
         section[data-testid="stSidebar"] {
-            background-color: #f8f9fa;
-            color: #000000;
+            background-color: #b4bdb3;
+            color: #343d31;
         }
 
         /* KPI cards */

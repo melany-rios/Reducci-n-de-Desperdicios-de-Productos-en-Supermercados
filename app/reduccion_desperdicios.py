@@ -37,7 +37,7 @@ st.markdown("""
         /* Tablas */
         .stDataFrame, .dataframe {
             background-color: #193d14;
-            color: #000000;
+            color: #314a2e;
         }
 
         /* Sidebar */
